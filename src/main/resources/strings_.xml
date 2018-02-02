@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="cancel">Cancelar</string>
+    <string name="profile.title">Perfil</string>
+    <string name="session_detail.label.materials">Materiales</string>
+    <string name="av_available">AV disponible</string>
+    <string name="assessment.toolbar_button.cancel">Cancelar</string>
+    <string name="appointment_invite_guests">Complete las secciones a continuación para invitar a los invitados a su
+        cita
+    </string>
+    <string name="email_address_">Dirección de correo electrónico*</string>
+    <string name="profile.contact_info.label.facebook">Facebook</string>
+    <string name="onboarding_profile_first_name">Nombre*</string>
+    <string name="signup_screen_email_hint">Correo electrónico</string>
+    <string name="schedule.empty.title">El pájaro es libre</string>
+    <string name="feeds.empty.title">El silencio es oro</string>
+    <string name="new_appointment_people_selector_view_availability_btn_text">Ver disponibilidad &gt;</string>
+    <string name="leaderboards_empty_brace_yourselves_message">Prepárense! Aunque este desafío aún no está en vivo,
+        escuchamos que hay una dura competencia. Vuelve pronto y disfruta de la gloria.
+    </string>
+    <string name="onboarding_profile_title">Título</string>
+    <string name="suggested_times_to_meet">Horas sugeridas para reunirse</string>
+    <string name="provide_special_instructions">Proporcione instrucciones especiales (opcional)</string>
+    <string name="export_to_calendar">Exportar a calendario</string>
+    <string name="onboarding_complete_profile_setup">Completar la información del perfil</string>
+    <string name="compete_team_new_edit_team">Editar equipo</string>
+    <string name="explore_use_apple_maps">Usar Apple Maps</string>
+    <string name="profile.connection_status.connected">Conectado</string>
+    <string name="onboarding_guide_app_menu">Menú de la aplicación</string>
+    <string name="search_channel">buscar por nombre de canal o persona</string>
+    <string name="private_label">PRIVADO</string>
+    <string name="home.empty.title">Toma un respiro</string>
+    <string name="lead_empty_message">Parece que todavía no has captado ninguna pista. Sigue cazando! (Y recuerda que
+        una cálida sonrisa va un largo camino)
+    </string>
+    <string name="explore_direction">Dirección</string>
+    <string name="section_profile">Perfil</string>
+    <string name="session_detail.button.ask_question">Haga una pregunta</string>
+    <string name="assessment.summary">RESUMEN</string>
+    <string name="onboarding_profile_photo">Foto de perfil</string>
+    <string name="navdrawer_header_event">Mi evento</string>
+    <string name="accept">Aceptar</string>
+    <string name="profile.edit.toolbar_cancel">Cancelar</string>
+    <string name="delete_message">Eliminar mensaje</string>
+    <string name="all_leads">todos los contactos</string>
+    <string name="profile.edit.label.bio">Bio</string>
+    <string name="maps_empty_title">“X“ marca el lugar</string>
+    <string name="please_fill_all_required_fields">Por favor llene todos los campos requeridos.</string>
+    <string name="profile.contact_info.label.email">Correo electrónico</string>
+    <string name="profile.edit.label.favorite_movie">Película favorita</string>
+    <string name="speakers_empty_title">Miedo escénico</string>
+    <string name="submit_to_gallery">Enviar a Galería</string>
+    <string name="public_label">PUBLIC</string>
+    <string name="all_prefix">Prefijo</string>
+    <string name="call_unavailable">La función de llamada no está disponible!</string>
+    <string name="profile.about.empty.action">Editar perfil</string>
+    <string name="section_materials">Materiales</string>
+    <string name="direct_messages">MENSAJES DIRECTOS</string>
+    <string name="lets_get_started">Empecemos!</string>
+    <string name="user_dont_have_phone_email">El usuario no tiene un correo electrónico.</string>
+    <string name="profile.contact_info.label.degree">Grado</string>
+    <string name="profile.edit.label.twitter">Twitter</string>
+    <string name="filter_by_typee">Por tipo</string>
+    <string name="search">Buscar</string>
+    <string name="mins">Mins</string>
+    <string name="profile.contact_info.label.title">Título</string>
+    <string name="systems">Sistemas</string>
+    <string name="profile.row_label.interests">Intereses</string>
+    <string name="event_details">Detalles del evento</string>
+    <string name="compete_team_details_add_team_motto">Agregar lema del equipo</string>
+    <string name="profile.row_label.photos">Fotos</string>
+    <string name="calendar">Calendario</string>
+    <string name="try_again">Algo salió mal. Inténtalo de nuevo más tarde</string>
+    <string name="preferences">PREFERENCIAS</string>
+    <string name="session_current_title">Sesión actual</string>
+    <string name="this_person_is_already_present_in_attendees_list_for_this_appointment">Esta persona ya está presente
+        en la lista de asistentes para esta cita.
+    </string>
+    <string name="explore_directions">Direcciones</string>
+    <string name="profile.edit.label.snapchat">Snapchat</string>
+    <string name="by_location">Por ubicación</string>
+    <string name="biography">Biografía</string>
+    <string name="add_option">Agregar una opción</string>
+    <string name="all_about_empty_state_its_mystery_title">Es un misterio</string>
+    <string name="profile.row_label.contact_info">Información de contacto</string>
+    <string name="refine.filter.label.by_presenter">Por presentador</string>
+    <string name="onboarding_profile_phone_number">Número de teléfono</string>
+    <string name="confirm">Confirmar</string>
+    <string name="edit_appointment">Editar cita</string>
+    <string name="profile.edit.label.first_name">Nombre</string>
+    <string name="assessment.toolbar_button.begin">Comenzar</string>
+    <string name="email_address">Dirección de correo electrónico</string>
+    <string name="resend">Reenviar</string>
+    <string name="profile.edit.label.first_name.required">Nombre*</string>
+    <string name="materials_empty_title">No hay nada que ver aquí, amigos</string>
+    <string name="secs">Secs</string>
+    <string name="channel_name_hint">El nombre debe tener 32 caracteres o menos</string>
+    <string name="assessment.action_button.next">Siguiente pregunta</string>
+    <string name="filter_by_date">Por fecha</string>
+    <string name="onboarding_why_title_you_earned_it_mesage">Te lo has ganado! Por qué no presumir? Proporcionar el
+        título de tu trabajo también facilitará que otros aprendan más sobre ti y se conecten por un terreno común
+    </string>
+    <string name="days">Días</string>
+    <string name="attendees_empty_title">A la última moda?</string>
+    <string name="explore_use_google_maps">Usar Google Maps</string>
+    <string name="invite">Invitar</string>
+    <string name="Audio">Audio</string>
+    <string name="view_all_appointments">Ver todas las citas</string>
+    <string name="explore_order_lyft">Ordenar Lyft</string>
+    <string name="one_second_ago">1 segundo año</string>
+    <string name="knowledge_center">Centro de conocimiento de la aplicación</string>
+    <string name="quickbook_appointment">Cita de Quickbook</string>
+    <string name="quick_actions">Acciones rápidas</string>
+    <string name="view">Ver</string>
+    <string name="post">Publicar</string>
+    <string name="search_by_name">Buscar por nombre</string>
+    <string name="arrange_by">ARRANGE BY</string>
+    <string name="declined_responses">Respuestas rechazadas</string>
+    <string name="section_speakers">Hablantes</string>
+    <string name="session_detail.label.presenters">Presentador(es)</string>
+    <string name="search_people">Buscar personas</string>
+    <string name="warning">Advertencia</string>
+    <string name="view_profile">Ver perfil</string>
+    <string name="finish">Finalizar</string>
+    <string name="profile.contact_info.label.company">Compañía</string>
+    <string name="has">tiene</string>
+    <string name="created_this_channel_today">Has creado este canal hoy</string>
+    <string name="leaderboards_empty_watch_the_throne">Watch the throne</string>
+    <string name="session_day_today">Hoy</string>
+    <string name="add">Agregar</string>
+    <string name="new_customer_affiliation_address_2">Dirección de afiliado 2</string>
+    <string name="delete_notification">Estás seguro de que deseas eliminar esta notificación?</string>
+    <string name="by_presenter">Por presentador</string>
+    <string name="new_customer_affiliation_address_1">Dirección de afiliación 1</string>
+    <string name="degree">Grado</string>
+    <string name="created_this_channel_yesterday">Has creado este canal ayer.</string>
+    <string name="section_live_feed">Transmisión en vivo</string>
+    <string name="challenge_description">Descripción</string>
+    <string name="channels">CANALES</string>
+    <string name="send_invites_description">Las personas recibirán correos electrónicos de invitación</string>
+    <string name="name">Nombre</string>
+    <string name="name_type_date_time">Nombre, tipo, fecha y hora</string>
+    <string name="invite_members">Invitar miembros</string>
+    <string name="support">SOPORTE</string>
+    <string name="next">Siguiente</string>
+    <string name="submit">Enviar</string>
+    <string name="login_screen_password_hint">Contraseña</string>
+    <string name="profile.about.title">Acerca de</string>
+    <string name="onboarding_welcome_we_really_excited_message">Estamos muy contentos de tenerlo a bordo. Tomemos un
+        momento para configurar su perfil para garantizar una experiencia espectacular
+    </string>
+    <string name="update">Actualizar</string>
+    <string name="assessment.action_button.begin">Comenzar</string>
+    <string name="new_channel">NUEVO CANAL</string>
+    <string name="yesterday">Ayer</string>
+    <string name="menu_section_title_my_event">Mi evento</string>
+    <string name="image_has_not_been_saved">La imagen no se guarda</string>
+    <string name="week_ago">hace una semana</string>
+    <string name="now">ahora</string>
+    <string name="compete_team_new_add_team_members">Agregar miembros del equipo</string>
+    <string name="by_track">Por seguimiento</string>
+    <string name="challenge_view_full_leaderboard">Ver tabla de clasificación completa</string>
+    <string name="section_gallery">Galería</string>
+    <string name="profile.edit.label.email.required">Dirección de correo electrónico*</string>
+    <string name="full_weather_forecast">Toque para previsión meteorológica completa</string>
+    <string name="hours">Horas</string>
+    <string name="apply">Aplicar</string>
+    <string name="yes">Sí</string>
+    <string name="message_has_not_been_delivered">El mensaje no se ha entregado</string>
+    <string name="ask_question.well_done_message">Has enviado una pregunta correctamente. Siéntase libre de agregar más
+        o \"me gusta\" a cualquier pregunta que resuene con usted.
+    </string>
+    <string name="all_search_by_name_company_email">Buscar por nombre, empresa o correo electrónico</string>
+    <string name="profile.save_to_contacts">Guardar en Contactos</string>
+    <string name="open_note">Nota abierta</string>
+    <string name="scan_lead">Escanear un cliente potencial</string>
+    <string name="onboarding_thanks_for_clarifying">Gracias por aclararlo</string>
+    <string name="explore_locations_empty_description">Hacer que el grupo esté de acuerdo con un lugar puede ser
+        suficientemente difícil. Lástima que actualmente no hay lugares para elegir. Vuelve pronto!
+    </string>
+    <string name="feeds.empty.message">Pero seguramente a otros les encantaría escuchar lo que tienes que decir! Por qué
+        no ser el primero en compartir tus pensamientos? También puedes publicar enlaces de sitios web, fotos y
+        pegatinas
+    </string>
+    <string name="in_this_appointment">en esta cita</string>
+    <string name="by_organizer">Por Organizador</string>
+    <string name="leave_group">Salir del grupo</string>
+    <string name="profile.edit.label.instagram">Instagram</string>
+    <string name="appointment_has_been_confirmed_with_invite">Su cita ha sido confirmada y se han enviado invitaciones
+    </string>
+    <string name="location">Ubicación</string>
+    <string name="assessment.counter.introduction_title">Introducción</string>
+    <string name="profile.edit.label.company">Compañía</string>
+    <string name="profile.edit.toolbar_save">Guardar</string>
+    <string name="onboarding_why_phone_number_message">Tu número de teléfono solo se compartirá con las personas con las
+        que elijas conectarte. De esta forma, mantenerte en contacto será fácil tanto durante como después del evento
+    </string>
+    <string name="leave_channel">Salir del canal</string>
+    <string name="recommended_content">Contenido recomendado</string>
+    <string name="section_appointments">Equipo</string>
+    <string name="signup_screen_name_hint">Nombre</string>
+    <string name="channel">canal</string>
+    <string name="profile.about.label.biography">Biografía</string>
+    <string name="speakers_empty_description">Mark Twain dijo una vez que hay dos tipos de hablantes: aquellos que están
+        nerviosos y aquellos que son mentirosos. Todavía se están agregando parlantes, así que vuelva pronto.
+    </string>
+    <string name="refine.search">Buscar</string>
+    <string name="profile.row_label.about">Acerca de</string>
+    <string name="fill_out_location">Por favor complete primero la sección LOCALIZACIÓN</string>
+    <string name="all_appointments">todas las citas</string>
+    <string name="my_appointments">mis citas</string>
+    <string name="refine.filter.reset">Restablecer</string>
+    <string name="new_user">Nuevo usuario</string>
+    <string name="location_will_be_reset_on_changing_start_date">La ubicación se restablecerá al cambiar la fecha de
+        inicio
+    </string>
+    <string name="decline">Rechazar</string>
+    <string name="delete_note">Eliminar nota</string>
+    <string name="session_detail.label.description">Descripción</string>
+    <string name="profile.contact_info.empty.action">Editar perfil</string>
+    <string name="speaker_not_found">Altavoz no encontrado.</string>
+    <string name="profile.photo.title">Fotos</string>
+    <string name="profile.edit.label.favorite_quote">Cita favorita</string>
+    <string name="appointment_detail_attendee_resend_invite_button_text">Reenviar invitar</string>
+    <string name="onboarding_guide_swipe_or_tap_event_info">deslizar o tocar para acceder a información adicional del
+        evento
+    </string>
+    <string name="direct_message">MENSAJE DIRECTO</string>
+    <string name="loading">Cargando...</string>
+    <string name="create_appointment">Crear cita</string>
+    <string name="less_than_a_minute_ago">Hace menos de un minuto</string>
+    <string name="explore_filter_distance">Distancia</string>
+    <string name="appointment_name_is_required">Se requiere el nombre de la cita</string>
+    <string name="onboarding_upload_photo">Subir foto</string>
+    <string name="exit">Salir</string>
+    <string name="new_appointment">Nueva cita</string>
+    <string name="empty_view_gallery_oh_shoot_title">Oh, disparar!</string>
+    <string name="section_leads">Conduce</string>
+    <string name="login_screen_email_hint">Correo electrónico</string>
+    <string name="assessment.toolbar_button.save">Guardar</string>
+    <string name="reset">Restablecer</string>
+    <string name="onboarding_guide_swipe_to_the_left_messages">deslizar hacia la izquierda para acceder a sus mensajes
+    </string>
+    <string name="type_here">Escriba aquí</string>
+    <string name="new_attendee_address_1">Dirección 1</string>
+    <string name="response_pending">Respuesta pendiente</string>
+    <string name="new_attendee_address_2">Dirección 2</string>
+    <string name="begin">Comenzar</string>
+    <string name="compete_teams_all_empty_state_message">Vaya! Parece que todavía no se han formado equipos. Vuelve
+        pronto más cerca del tiempo de competencia.
+    </string>
+    <string name="lead_note_empty_title">En otra nota</string>
+    <string name="profile.contact_info.label.instagram">Instagram</string>
+    <string name="city">Ciudad</string>
+    <string name="image_saved_successfully">Imagen guardada como exitosa</string>
+    <string name="lead_note_empty_action">Crear nota</string>
+    <string name="save">Guardar</string>
+    <string name="profile_contact_info_label_snapchat">Snapchat</string>
+    <string name="confirmed">Confirmado</string>
+    <string name="unknown">Desconocido</string>
+    <string name="notification_ars_question_set_corrected_title">Live Polling ahora activo</string>
+    <string name="session_detail.label.location">Ubicación</string>
+    <string name="profile.row_label.connections">Conexiones</string>
+    <string name="appointment_location_group_all_group_title">Ver todas las ubicaciones</string>
+    <string name="profile.edit.label.phone">Número de teléfono</string>
+    <string name="all_customers">Clientes</string>
+    <string name="have">tener</string>
+    <string name="copy">Copiar</string>
+    <string name="profile.edit.label.password">Contraseña</string>
+    <string name="cant_join_attendee_to_chanel">Cualquier asistente en este evento puede unirse a este canal desde la
+        lista del navegador
+    </string>
+    <string name="explore_use_citymapper">Usar Citymapper</string>
+    <string name="channel_name">NOMBRE DEL CANAL</string>
+    <string name="empty_conversation_purpose_label">Propósito del canal:</string>
+    <string name="profile.connection_status.not_connected">Conectar</string>
+    <string name="profile.contact_info.label.twitter">Twitter</string>
+    <string name="explore_order_uber">Ordenar Uber</string>
+    <string name="appointment_has_been_confirmed">Su cita ha sido confirmada</string>
+    <string name="tap_card_to_view_profile">TARJETA TAP PARA VER EL PERFIL</string>
+    <string name="view_my_leads">Para escanear automáticamente, coloque el código de barras dentro del área debajo
+    </string>
+    <string name="tentative">Tentativo</string>
+    <string name="nice">¡Bonito!</string>
+    <string name="signup_screen_password_hint">Contraseña</string>
+    <string name="location_will_be_reset_on_changing_time_duration">La ubicación se restablecerá al cambiar la duración
+        del tiempo
+    </string>
+    <string name="menu_section_title_my_account">Mi cuenta</string>
+    <string name="refine.filter.label.by_track">Por seguimiento</string>
+    <string name="onboarding_select_language_available_header">IDIOMAS DISPONIBLES</string>
+    <string name="support_direct_message">Mensaje directo con soporte</string>
+    <string name="profile.contact_info.label.linkedin">Linkedin</string>
+    <string name="section_systems">Sistemas</string>
+    <string name="date">Fecha</string>
+    <string name="profile.connection_status.connecting">Conexión pendiente</string>
+    <string name="profile.edit.label.title">Título</string>
+    <string name="attendees_all_team">Todos</string>
+    <string name="to_automatically_scan_place_the_barcode_within_the_area_below">Para escanear automáticamente, coloque
+        el código de barras dentro del área debajo
+    </string>
+    <string name="onboarding_select_language_default_header">IDIOMA POR DEFECTO</string>
+    <string name="empty_conversation_action">Escribir un mensaje</string>
+    <string name="session_detail.option_menu.export_to_calendar">Exportar a calendario</string>
+    <string name="all_why">Por qué?</string>
+    <string name="appointments_check_in">Registro de citas</string>
+    <string name="profile.edit.label.last_name.required">Apellido*</string>
+    <string name="download">Descargar</string>
+    <string name="delete_post">Eliminar publicación</string>
+    <string name="explore_visit_website">Visita el sitio web</string>
+    <string name="new_appointment_location_title">LOCALIZACIONES EN EL SITIO</string>
+    <string name="profile.about.label.motto">Lema</string>
+    <string name="speaker_about_empty_title">Quizás nunca lo sepamos</string>
+    <string name="create">Crear</string>
+    <string name="feeds.empty.action">Crear una publicación</string>
+    <string name="stickers">Pegatinas</string>
+    <string name="onboarding_welcome_set_up_profile">Configurar perfil</string>
+    <string name="connections">Conexiones</string>
+    <string name="profile.edit.label.last_name">Apellido</string>
+    <string name="compete_teams_all_empty_state_make_dream_title">Haz que el sueño funcione</string>
+    <string name="group">grupo</string>
+    <string name="menu_item_title_profile">Perfil</string>
+    <string name="profile.edit.label.email">Dirección de correo electrónico</string>
+    <string name="new_customer">Cliente nuevo</string>
+    <string name="by_day">Por día</string>
+    <string name="speaker_filter_title">REFINE</string>
+    <string name="accepted">Aceptado</string>
+    <string name="invite_people_to_your_appointment">Invita a las personas a tu cita</string>
+    <string name="onboarding_complete_your_profile_message">Complete su perfil para que los demás sepan más acerca de
+        quién es usted
+    </string>
+    <string name="my_leads">mis contactos</string>
+    <string name="done">Hecho</string>
+    <string name="section_people">Gente</string>
+    <string name="onboarding_profile_office_address">Dirección de la oficina</string>
+    <string name="log_out">Cerrar sesión</string>
+    <string name="empty_view_gallery_submit_photo">Enviar una foto</string>
+    <string name="onboarding_profile_company">Compañía</string>
+    <string name="new_customer_affiliation">Afiliación</string>
+    <string name="lead_empty_title">Es tranquilo, muy tranquilo</string>
+    <string name="send">Enviar</string>
+    <string name="one_minute_ago">Hace 1 minuto</string>
+    <string name="announcements">Anuncios</string>
+    <string name="onboarding_profile_biography">Biografía</string>
+    <string name="session_detail.question_reason">Las preguntas enviadas serán respondidas por la parte correspondiente
+        lo antes posible
+    </string>
+    <string name="navdrawer_header_account">Mi cuenta</string>
+    <string name="camera_library">Biblioteca de la cámara</string>
+    <string name="unchecked_in_from_appointment">Sin marcar desde la cita</string>
+    <string name="assessment.toolbar_button.next">Siguiente</string>
+    <string name="tap_to_invite_members">Tocar para invitar miembros</string>
+    <string name="action_settings">Configuración</string>
+    <string name="post_to_live_feed">Publicar en Live Feed</string>
+    <string name="maps_empty_message">Recuerdas cuando usabas una hoja de papel grande para tratar de moverte? Ahora es
+        tan simple como unos pocos toques en una pantalla. Desafortunadamente, todavía no se han agregado mapas, por lo
+        que tu aventura tendrá que esperar. Vuelve pronto!
+    </string>
+    <string name="change_status">Cambiar estado</string>
+    <string name="error">Error</string>
+    <string name="profile.contact_info.label.city">Ciudad</string>
+    <string name="delete">Enviar</string>
+    <string name="assessment.action_button.submit">Enviar</string>
+    <string name="profile.edit.label.office_address">Dirección de la oficina</string>
+    <string name="used_in">Usado en:</string>
+    <string name="appointments_empty_message">Actualmente no hay citas programadas. Por qué no aprovechar esta
+        oportunidad para invitar a algunas personas a que se reúnan? Un poco de tiempo puede marcar la diferencia.
+    </string>
+    <string name="today">Hoy</string>
+    <string name="reserve">Reservar</string>
+    <string name="take_photo">Tomar una foto</string>
+    <string name="profile.photo.empty.text">Esto debe ser un nuevo registro. (Es una broma!) Pero en serio, por qué no
+        tomar algunas fotos del evento y hacer que tus amigos se pongan un poco más celosos
+    </string>
+    <string name="ask_question.tap_to_create_a_question">Toca para crear una pregunta</string>
+    <string name="filter_search_center_title">Buscar</string>
+    <string name="profile.edit.title">Editar perfil</string>
+    <string name="profile.edit.label.facebook">Facebook</string>
+    <string name="select_a_location_for_your_appointment">Seleccione una ubicación para su cita</string>
+    <string name="section_section_home">Casa</string>
+    <string name="refine.filter.view_all">Ver todo</string>
+    <string name="appointments_empty_title">Me apetece encontrarte aquí</string>
+    <string name="onboarding_profile_has_been_successfully_set_up">Tu perfil se ha configurado correctamente. Cuelga, ya
+        casi has terminado con la incorporación
+    </string>
+    <string name="customer_support">Llamar al servicio de atención al cliente</string>
+    <string name="private_channel_message">Los canales privados son solo de invitación. El canal no aparece en la lista
+        de canales a menos que esté invitado.
+    </string>
+    <string name="all_well_done">Bien hecho!</string>
+    <string name="add_person_manually">Agregar persona (Manualmente)</string>
+    <string name="no_appointments_found">No se encontraron citas</string>
+    <string name="profile.photo.empty.title">No hay selfies todavía?</string>
+    <string name="liked_by">Me gustó</string>
+    <string name="section_explore">Explorar</string>
+    <string name="onboarding_guide_swipe_to_the_right_app_menu">deslizar hacia la derecha para acceder al menú de la
+        aplicación
+    </string>
+    <string name="choose_location_below">Elija una ubicación a continuación</string>
+    <string name="tap_for_more_message_options">Toca para ver más opciones de mensaje</string>
+    <string name="update_time_and_invite">Actualizar tiempo e invitar</string>
+    <string name="view_availability_does_not_search_customers_message">Ver disponibilidad no busca la disponibilidad de
+        los clientes, solo los empleados internos
+    </string>
+    <string name="choose_existing">Elija existente</string>
+    <string name="connections_empty_title">Wilson!</string>
+    <string name="onboarding_guide_messages">Mensajes</string>
+    <string name="profile.edit.label.motto">Lema</string>
+    <string name="schedule_add_to_schedule">Agregar a la programación</string>
+    <string name="assessment.error.no_selected_answers">Seleccione una respuesta.</string>
+    <string name="profile.edit.label.favorite_song">Canción favorita</string>
+    <string name="declined">Rechazado</string>
+    <string name="profile.edit_ptofile">Editar perfil</string>
+    <string name="explore_direction_app_choise">Qué aplicación quieres usar?</string>
+    <string name="one_hour_ago">Hace 1 hora</string>
+    <string name="onboarding_complete_profile_info">Completar la información del perfil</string>
+    <string name="section_customers">Clientes</string>
+    <string name="home.event_details">Detalles del evento</string>
+    <string name="please_add_an_appointment_name_to_proceed">Agregue un nombre de cita para continuar</string>
+    <string name="profile.about.empty.title">Knock, knock</string>
+    <string name="explore_filter_rating">Calificación</string>
+    <string name="challenges_empty_winter_is_coming">Viene el invierno</string>
+    <string name="appointment_conflict_resolved_time_empty">Desafortunadamente, no hay momentos en este día que
+        funcionen para todos. Actualice la fecha y vuelva a intentarlo
+    </string>
+</resources>

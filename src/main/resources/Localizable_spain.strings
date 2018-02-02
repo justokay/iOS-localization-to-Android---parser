@@ -1,0 +1,978 @@
+//MARK: - Sections
+"Home" = "Casa";
+"Leads" = "Conduce";
+"Systems" = "Sistemas";
+"Profile" = "Perfil";
+"People" = "Gente";
+"Speakers" = "Hablantes";
+"Customers" = "Clientes";
+"Materials" = "Materiales";
+"Appointments" = "Equipo";
+"Explore" = "Explorar";
+"Live Feed" = "Transmisión en vivo";
+"Gallery" = "Galería";
+
+
+//MARK: - Navigation Bar
+"Create" = "Crear";
+"Confirm" = "Confirmar";
+"Cancel" = "Cancelar";
+"Apply" = "Aplicar";
+"Save" = "Guardar";
+"Done" = "Hecho";
+"Send" = "Enviar";
+"Exit" = "Salir";
+"Submit" = "Enviar";
+"Next" = "Siguiente";
+"Begin" = "Comenzar";
+"Update" = "Actualizar";
+"Finish" = "Finalizar";
+
+
+//MARK: - Time
+"1 Second Ago" = "1 segundo año";
+"%d Seconds Ago" = "%d segundos atrás";
+"Less than a Minute Ago" = "Hace menos de un minuto";
+"1 Minute Ago" = "Hace 1 minuto";
+"%d Minutes Ago" = "Hace %d minutos";
+"1 Hour Ago" = "Hace 1 hora";
+"%d Hours Ago" = "%d Hours Ago";
+"Yesterday" = "Ayer";
+"a Week Ago" = "hace una semana";
+"%d Days Ago" = "%d días atrás";
+"a Week Ago" = "hace una semana";
+"%d Weeks Ago" = "%d Semanas atrás";
+
+
+//MARK: - REFINE
+"REFINE" = "REFINE";
+"FILTER" = "FILTRO";
+"Reset" = "Restablecer";
+"A-Z" = "A-Z";
+"View All" = "Ver todo";
+"View Less" = "Ver menos";
+
+"FILTER \n\nBy Status" = "FILTER \n\nBy Status";
+"FILTER \n\nBy Cost" = "FILTER \n\nBy Cost";
+"FILTER \n\nBy Type" = "FILTER \n\nBy Type";
+
+"ARRANGE BY" = "ARRANGE BY";
+
+"By Date" = "Por fecha";
+"By Type" = "Por tipo";
+"By Group" = "Por grupo";
+"By Track" = "Por seguimiento";
+"By Day" = "Por día";
+"By Organizer" = "Por Organizador";
+"By Location" = "Por ubicación";
+"By Presenter" = "Por presentador";
+
+
+//MARK: - Alert
+"Error" = "Error";
+"Failure" = "Error";
+"Warning" = "Advertencia";
+"Confirmation" = "Confirmación";
+"Well Done!" = "Bien hecho!";
+
+"has been successfully saved." = "se ha guardado con éxito.";
+"%@ has been successfully updated." = "%@ ha sido actualizado exitosamente.";
+"%@ has been successfully created." = "%@ ha sido creado con éxito.";
+"%@ %@ has been successfully created." = "%@ %@ ha sido creado con éxito.";
+"%@” has been deleted successfully." = "%@” Ha sido eliminado con éxito.";
+
+"You do not have this application installed." = "No tiene esta aplicación instalada.";
+
+"Camera Unavailable" = "Cámara no disponible";
+"Unable to find a camera on your device." = "No se puede encontrar una cámara en su dispositivo";
+
+"Image was not add to user photos." = "La imagen no se agregó a las fotos del usuario";
+
+"Internet connection is required. Please check your internet connection or try again later." = "Se requiere conexión a Internet. Verifique su conexión a Internet o intente de nuevo más tarde";
+"Something went wrong. Please try again later." = "Algo salió mal. Inténtalo de nuevo más tarde";
+
+"Validation Alert" = "Alerta de validación";
+"Please fill all required fields." = "Por favor llene todos los campos requeridos.";
+
+"Password is not valid." = "La contraseña no es válida.";
+"Password and Password(Re-Enter) fields should be equal." = "Los campos de Contraseña y Contraseña (Reingreso) deben ser iguales.";
+"Invalid email address." = "Dirección de correo electrónico no válida";
+"Please enter a valid email address." = "Por favor, introduce una dirección de correo electrónico válida.";
+
+"Please navigate to %@ in order to access this material" = "Navegue a %@ para acceder a este material";
+"This item can't be opened as it belongs to a different event." = "Este elemento no se puede abrir ya que pertenece a un evento diferente";
+
+//MARK: - Global
+"Search" = "Buscar";
+"Add" = "Agregar";
+"Edit" = "Editar";
+"Close" = "Cerrar";
+"Delete" = "Eliminar";
+
+"Details" = "Detalles";
+"Duration" = "Duración";
+
+"Accept" = "Aceptar";
+"Accepted" = "Aceptado";
+"Tentative" = "Tentativo";
+"Denied" = "Denegado";
+"Decline" = "Rechazar";
+"Declined" = "Rechazado";
+"Unknown" = "Desconocido";
+
+"tap to select" = "tocar para seleccionar";
+"tap to type" = "tocar para escribir";
+
+"Error" = "Error";
+"Failure" = "Fracaso";
+"Success" = "Éxito";
+
+"OK" = "DE ACUERDO";
+"Yes" = "Sí";
+
+"Date" = "Fecha";
+"Time" = "Tiempo";
+"Title" = "Título";
+"Subtitle" = "Subtítulo";
+"Track" = "Pista";
+
+" read more" = "leer más";
+"Current Session" = "Sesión actual";
+"Type here" = "Escriba aquí";
+"Settings" = "Configuración";
+
+//MARK: - Onboarding
+"Let’s get started!" = "Empecemos!";
+
+//"View upcoming events or relive your favorite moments";
+"View upcoming events or relive your " = "Ver próximos eventos o revivir tu";
+"favorite moments" = "momentos favoritos";
+
+//"Quickly view session times, locations, materials, & speakers";
+"Quickly " = "Con rapidez ";
+"view session times, locations, materials, & speakers" = "ver tiempos de sesión, ubicaciones, materiales y altavoces";
+
+//"All of your audio, video, URLs, & survey materials in one place";
+"All of your audio, video, URLs, & survey materials in " = "Todos sus archivos de audio, video, URL y encuesta";
+"one place" = "un lugar";
+
+//"Instantly connect with anyone over shared interests";
+"Instantly connect " = "Conectar al instante";
+"with anyone over shared interests" = "con alguien sobre intereses compartidos";
+
+//"Keep up with all of the most memorable moments";
+"Keep up" = "Mantenga";
+"with all of the most memorable moments" = "con todos los momentos más memorables";
+
+//"View a curated collection of photos & save your favorites";
+"View a " = "Ver a";
+"curated collection " = "colección curada ";
+"of photos & save your favorites" = "de fotos y guarda tus favoritos";
+
+//"Converse with people through channels and private messages";
+"Converse " = "Converse ";
+"with people through channels and private messages" = "con personas a través de canales y mensajes privados";
+
+//"Explore a new city with your own personal concierge";
+"Explore a new city with your own " = "Explora una ciudad nueva con la tuya ";
+"personal concierge" = "conserje personal";
+
+//"Easily find, capture, and engage customers like never before";
+"Easily find, capture, and engage " = "Encuentra, captura y participa fácilmente";
+"customers" = "clientes";
+"like never before" = "como nunca antes";
+
+//"Meet with who you want, when you want, where you want";
+"Meet with " = "Reunirse con";
+"who you want, " = "a quién quieres";
+"when you want, where you want" = "cuando quieras, donde quieras";
+
+"App Menu" = "Menú de la aplicación";
+"Messages" = "Mensajes";
+
+"swipe to the right to access the app menu" = "deslizar hacia la derecha para acceder al menú de la aplicación";
+"swipe or tap to access additional event info" = "deslizar o tocar para acceder a información adicional del evento";
+"swipe to the left to access your messages" = "deslizar hacia la izquierda para acceder a sus mensajes";
+"Thanks! I understand the gestures" = "Gracias! Entiendo los gestos";
+
+"DEFAULT LANGUAGE" = "IDIOMA POR DEFECTO";
+"AVAILABLE LANGUAGES" = "IDIOMAS DISPONIBLES";
+
+"Complete your profile to let others know more about who you are." = "Complete su perfil para que los demás sepan más acerca de quién es usted";
+"Complete Profile Info" = "Completar la información del perfil";
+"Why?" = "Por qué?";
+"Badge of Honor" = "Insignia de honor";
+"You’ve earned it! So why not show it off? Providing your job title will also make it easier for others learn more about you and connect over common ground." = "Te lo has ganado! Por qué no presumir? Proporcionar el título de tu trabajo también facilitará que otros aprendan más sobre ti y se conecten por un terreno común";
+"Thanks for clarifying" = "Gracias por aclararlo";
+"Private Digits" = "Dígitos privados";
+"Your phone number will only be shared with people you choose to connect with. That way, staying in touch will be easy both during and after the event." = "Tu número de teléfono solo se compartirá con las personas con las que elijas conectarte. De esta forma, mantenerte en contacto será fácil tanto durante como después del evento";
+"Profile Photo" = "Foto de perfil";
+"Photo uploaded" = "Foto cargada";
+"Upload photo" = "Subir foto";
+"Are you sure you don’t want to upload a profile photo? \n\nStudies show that people with profile photos are 50% happier.*" = "Estás seguro de que no quieres subir una foto de perfil? \ N \ nEstudios muestran que las personas con fotos de perfil son 50% más felices.*";
+"\n\n*based on absolutely nothing" = "\n\n*basado en absolutamente nada";
+"Say Cheese!" = "Decir queso!";
+"Your profile has been successfully set up. Hang tight, you’re almost finished with onboarding." = "Tu perfil se ha configurado correctamente. Cuelga, ya casi has terminado con la incorporación";
+"Welcome to " = "Bienvenido a";
+"We’re really excited to have you on board. Let’s take a moment to get your profile setup to ensure a spectacular experience." = "Estamos muy contentos de tenerlo a bordo. Tomemos un momento para configurar su perfil para garantizar una experiencia espectacular";
+"Set Up Profile" = "Configurar perfil";
+
+//MARK: - Menu
+"My event" = "Mi evento";
+"My account" = "Mi cuenta";
+
+//MARK: - Home
+"Current Live Poll" = "Current Live Poll";
+"Take a Photo" = "Tomar una foto";
+"Choose existing" = "Elija existente";
+"Post to Live Feed" = "Publicar en Live Feed";
+"Post to %@" = "Publicar en %@";
+"Submit to Gallery" = "Enviar a Galería";
+
+"Recommended Content" = "Contenido recomendado";
+"Systems" = "Sistemas";
+"Announcements" = "Anuncios";
+"%d items" =  "%d elementos";
+"Days" = "Días";
+"Hours" = "Horas";
+"Mins" = "Mins";
+"Secs" = "Secs";
+"now" = "ahora";
+"%dm ago" = "%dm ago";
+"%dh ago" = "%dh ago";
+"Quick Actions" = "Acciones rápidas";
+"Create Appointment" = "Crear cita";
+"Create New Post" = "Crear nueva publicación";
+"Quickbook Appointment" = "Cita de Quickbook";
+"Scan a Badge" = "Escanear una insignia";
+"Appointments Check-in" = "Registro de citas";
+"Event Details" = "Detalles del evento";
+"Speaker not found." = "Altavoz no encontrado.";
+"You are not assigned to this session." = "No estás asignado a esta sesión.";
+"Share a Photo\n" = "Compartir una foto \n";
+"Choose a location below" = "Elija una ubicación a continuación";
+"Tap for full weather forecast" = "Toque para previsión meteorológica completa";
+"View all notifications (%lu)" = "Ver todas las notificaciones (%lu)";
+"Next Session | %@ at %@" = "Sesión siguiente | %@ at %@";
+
+//MARK: - Chat
+"Leave channel" = "Salir del canal";
+"Invite members" = "Invitar miembros";
+"Leave group" = "Salir del grupo";
+"View Profile" = "Ver perfil";
+"search by channel name or person" = "buscar por nombre de canal o persona";
+"You created this channel today." = "Has creado este canal hoy";
+"You created this channel yesterday." = "Has creado este canal ayer.";
+"You created this channel %@." = "Has creado este canal %@.";
+"Channel Purpose: " = "Propósito del canal: ";
+"Tap to invite members" = "Tocar para invitar miembros";
+
+"Search by Name" = "Buscar por nombre";
+"search by name" = "buscar por nombre";
+
+"DIRECT MESSAGE" = "MENSAJE DIRECTO";
+"DIRECT MESSAGES" = "MENSAJES DIRECTOS";
+
+"NEW CHANNEL" = "NUEVO CANAL";
+"PUBLIC" = "PUBLIC";
+"PRIVATE" = "PRIVADO";
+"CHANNELS" = "CANALES";
+"CHANNEL NAME" = "NOMBRE DEL CANAL";
+"PURPOSE (OPTIONAL)" = "PROPÓSITO (OPCIONAL)";
+"Any attendee at this event can join this channel from the browser list." = "Cualquier asistente en este evento puede unirse a este canal desde la lista del navegador";
+"Private channels are invite-only. The channel does not show up in the channel list unless invited." = "Los canales privados son solo de invitación. El canal no aparece en la lista de canales a menos que esté invitado.";
+"Name must be 32 characters or less" = "El nombre debe tener 32 caracteres o menos";
+"announcements" = "anuncios";
+"Write a Message" = "Escribir un mensaje";
+
+"Stickers" = "Pegatinas";
+"%@ left the %@." = "%@ dejó el %@.";
+"channel" = "canal";
+"group" = "grupo";
+
+"Call feature is not available!" = "La función de llamada no está disponible!";
+"User does not have a phone number." = "El usuario no tiene un número de teléfono.";
+"User does not have a email." = "El usuario no tiene un correo electrónico.";
+"Message @%@" = "Mensaje @%@";
+"Invite" = "Invitar";
+"%@ %@ left the channel" = "%@ %@ dejó el canal";
+"%@ %@ joined this channel" = "%@ %@ se unió a este canal";
+
+"have" = "tener";
+"has" = "tiene";
+
+"Tap for more message options" = "Toca para ver más opciones de mensaje";
+
+"Audio" = "Audio";
+"Stickers" = "Pegatinas";
+
+"Copy" = "Copiar";
+"Save" = "Guardar";
+
+"Image saved successfully" = "Imagen guardada como exitosa";
+"Image has not been saved" = "La imagen no se guarda";
+
+"Message has not been delivered" = "El mensaje no se ha entregado";
+"Resend" = "Reenviar";
+"Delete message" = "Eliminar mensaje";
+"Camera Library" = "Biblioteca de la cámara";
+
+//MARK: - Schedule
+"SCHEDULE AT A GLANCE" = "HORARIO DE UN VISTAZO";
+"MY SCHEDULE" = "MI HORARIO";
+
+"Schedule" = "Horario";
+"Displaying %lu Sessions" = "Mostrar %lu sesiones";
+"Sessions" = "Sesiones";
+"Open Maps App" = "Aplicación de mapas abiertos";
+
+"Add to Schedule" = "Agregar a la programación";
+"Remove from Schedule" = "Eliminar del programa";
+
+"Ask a Question" = "Haga una pregunta";
+"Tap to ask a question" = "Toca para hacer una pregunta";
+"Submitted questions will be answered by the appropriate party as soon as possible" = "Las preguntas enviadas serán respondidas por la parte correspondiente lo antes posible";
+"people " = "personas";
+
+"Select time" = "Seleccionar hora";
+"Select date" = "Seleccionar fecha";
+
+"Presenter(s)" = "Presentador(es)";
+"Attendee(s)" = "asistente(s)";
+"Presenters" = "Presentadores";
+"Presenter" = "Presentador";
+
+"Attendees" = "Asistentes";
+"Materials" = "Materiales";
+"Material" = "Material";
+"Location" = "Ubicación";
+"Description" = "Descripción";
+
+"Remove download" = "Eliminar descarga";
+"Download" = "Descargar";
+
+"The TITLE field is required." = "El campo TITLE es obligatorio.";
+"From Time can not be greater or equal than To Time." = "From Time no puede ser mayor o igual que To Time";
+
+"Delete Event" = "Eliminar evento";
+"Edit Event" = "Editar evento";
+
+"Event instance has not been created" = "La instancia del evento no se ha creado";
+"Event has not been created" = "Evento no ha sido creado";
+"Event not edited" = "Evento no editado";
+"Event instance not edited" = "Evento no editado";
+
+"Edit Session" = "Editar sesión";
+"Your session has been successfully created!" = "Su sesión ha sido creada con éxito!";
+"Your session has been successfully edited!" = "Su sesión ha sido editada exitosamente!";
+"Please enter session TITLE first before selecting the %@" = "Introduzca la sesión TÍTULO primero antes de seleccionar el %@";
+
+"Select Speaker(s)" = "Seleccionar altavoz(s)";
+"Select Track(s)" = "Seleccionar pista(s)";
+
+"%@ for %@ %@" = "%@ para %@ %@";
+
+"room" = "habitación";
+"speakers" = "altavoces";
+"attendees" = "asistentes";
+
+"Document is removed" = "Se eliminó el documento";
+"Document is not removed" = "El documento no se eliminó";
+
+"File is removed" = "Se eliminó el archivo";
+"File is not removed" = "El archivo no se eliminó";
+"Assessment is removed" = "La evaluación se eliminó";
+"Assessment successfully saved" = "Evaluación exitosamente guardada";
+"Failed while saving Assessment" = "Error en la evaluación guardada";
+
+"Remove from Calendar" = "Eliminar del calendario";
+"Export to Calendar" = "Exportar a calendario";
+
+"No records found matching this filter criteria" = "No se encontraron registros que coincidan con este criterio de filtro";
+
+"To the left" = "A la izquierda";
+"Tap an item from the list to view additional details" = "Toque un elemento de la lista para ver detalles adicionales";
+
+"Displaying %zd Sessions" = "Mostrando% zd Sesiones";
+"New Session" = "Nueva sesión";
+"Rooms List" = "Lista de habitaciones";
+
+//MARK: - Ask a Question
+"Nice!" = "¡Bonito!";
+"You’ve successfully submitted a question. Feel free to add more or “like” any questions that resonate with you." = "Has enviado una pregunta correctamente. Siéntase libre de agregar más o \"me gusta\" a cualquier pregunta que resuene con usted.";
+"Submit a question to the host(s) for %@" = "Envía una pregunta al anfitrión (es) para %@";
+"Type your question here" = "Escribe tu pregunta aqui";
+"Tap to create a question" = "Toca para crear una pregunta";
+
+//MARK: - Appointment
+"my appointments" = "mis citas";
+"all appointments" = "todas las citas";
+
+"Date" = "Fecha";
+"Host" = "Host";
+"Location" = "Ubicación";
+
+"Confirmed" = "Confirmado";
+"Response Pending" = "Respuesta pendiente";
+"Declined Responses" = "Respuestas rechazadas";
+
+"Add Person (Manually)" = "Agregar persona (Manualmente)";
+"Add Person (Scan Badge)" = "Agregar persona (Scan Badge)";
+"Edit Appointment" = "Editar cita";
+"Cancel Appointment" = "Cancelar cita";
+"New Appointment" = "Nueva cita";
+
+" in this appointment" = "en esta cita";
+
+"Change Status" = "Cambiar estado";
+
+"Displaying %zd Appointments" = "Mostrar %zd citas";
+"This person is already present in attendees list for this appointment." = "Esta persona ya está presente en la lista de asistentes para esta cita.";
+"This person is not an attendee of the event" = "Esta persona no es un asistente del evento";
+
+"The number of invitees exceeds the room capacity for “%@” (capacity: %@). Please select a different room or reduce the number of invitees." = "El número de invitados excede la capacidad de la sala para “%@”(capacidad: %@). Seleccione una habitación diferente o reduzca la cantidad de invitados.";
+
+"View Availability >" = "Ver disponibilidad >";
+"Oops..." = "Oops...";
+"To the left" = "A la izquierda";
+"Tap an item from the list to view additional details" = "Toque un elemento de la lista para ver detalles adicionales";
+"All Locations" = "Todas las ubicaciones";
+
+"Check-In People" = "Gente de check-in";
+"User not found." = "Usuario no encontrado.";
+"Update reservation failure." = "Actualizar error de reserva";
+
+"Signature" = "Firma";
+"%@ has been successfully signed in." = "%@ ha sido ingresado exitosamente.";
+"Disclaimer" = "Exención de responsabilidad";
+
+"Scheduler" = "Programador";
+"Tentative" = "Tentativo";
+"Change Status" = "Cambiar estado";
+
+"Personal Message" = "Mensaje personal";
+"Participated" = "Participado";
+"Checked In" = "Ingreso";
+
+"Your room is ready now" = "Tu habitación está lista ahora";
+"Confirmed for " = "Confirmado para";
+"Have a great appointment" = "Tener una gran cita";
+"'s Quickbook Meeting" = "Reunión de Quickbook";
+
+"Please fill out %@ section first." = "Por favor complete% @ section primero.";
+"Please fill out LOCATION section first." = "Por favor complete primero la sección LOCALIZACIÓN";
+"Please fill out DETAILS section first."= "Complete primero la sección DETALLES";
+"Your appointment has been confirmed and invites have been sent." = "Su cita ha sido confirmada y se han enviado invitaciones";
+"Your appointment has been confirmed" = "Su cita ha sido confirmada";
+"Please choose appointment time before selecting a host." = "Por favor, elija la hora de la cita antes de seleccionar un host.";
+
+"This is no available dates for reservations. Please configure it on your server admin." = "No hay fechas disponibles para las reservas. Configúrelo en el administrador del servidor";
+"Location will be reset on changing date" = "La ubicación se restablecerá en la fecha de modificación";
+"Location will be reset on changing time duration" = "La ubicación se restablecerá al cambiar la duración del tiempo";
+"Location will be reset on changing start date" = "La ubicación se restablecerá al cambiar la fecha de inicio";
+
+"Date & Time" = "Fecha y hora";
+"location type" = "tipo de ubicación";
+"View All Locations" = "Ver todas las ubicaciones";
+"ON-SITE LOCATIONS" = "LOCALIZACIONES EN EL SITIO";
+
+"There are no available rooms configured for reservations. Please setup rooms reservations in the admin website." = "No hay salas disponibles configuradas para reservas. Configure las reservas de habitaciones en el sitio web de administración";
+"There are no available rooms configured for selected date. Please setup rooms reservations in the admin website." = "No hay habitaciones disponibles configuradas para la fecha seleccionada. Configure las reservas de habitaciones en el sitio web de administración";
+"Available" = "Disponible";
+"Not Available" = "No disponible";
+"Availability" = "Disponibilidad";
+
+"Unfortunately, no times on this day work for everyone. Please update the date and try again." = "Desafortunadamente, no hay momentos en este día que funcionen para todos. Actualice la fecha y vuelva a intentarlo";
+"The following people have existing sessions or appointments:" = "Las siguientes personas tienen sesiones o citas existentes:";
+"Suggested times to meet" = "Horas sugeridas para reunirse";
+"Ignore and Continue" = "Ignorar y continuar";
+"Update Time and Invite" = "Actualizar tiempo e invitar";
+"Change Date" = "Cambiar fecha";
+
+"Complete the sections below to invite guests to your appointment" = "Complete las secciones a continuación para invitar a los invitados a su cita";
+"Send Invites" = "Enviar invitaciones";
+"People will receive invitation emails" = "Las personas recibirán correos electrónicos de invitación";
+"Select a %@ for your appointment" = "Seleccione un %@ para su cita";
+"View Availability" = "Ver disponibilidad";
+"Name, Type, Date & Time" = "Nombre, tipo, fecha y hora";
+"Select a location for your appointment" = "Seleccione una ubicación para su cita";
+"%d seats" = "%d seats";
+"%d seat" = "%d seat";
+"AV Available" = "AV disponible";
+"Provide special instructions (optional)" = "Proporcione instrucciones especiales (opcional)";
+"Invite people to your appointment" = "Invita a las personas a tu cita";
+"This room cannot accommodate the number of selected invitees" = "Esta sala no puede acomodar el número de invitados seleccionados";
+"AV Available" = "AV disponible";
+"Reserve" = "Reservar";
+"%d minutes" = "%d minutos";
+"View Availability does not search customers availability, only internal employees" = "Ver disponibilidad no busca la disponibilidad de los clientes, solo los empleados internos";
+"Today" = "Hoy";
+
+"%zd hour" = "%zd horas";
+"%zd hour %zd mins" = "%zd horas %zd minutos";
+"%zd hours %zd mins" = "%zd horas %zd minutos";
+"%zd mins" = "%zd minutos";
+"%zd hours" = "%zd horas";
+
+"Organizer" = "Organizador";
+"Internal Notes" = "Notas internas";
+
+"Search by: %@" = "Buscar por: %@";
+"Search by: " = "Buscar por: ";
+
+"%@ is" = "%@ es";
+"%@ are" = "%@ son";
+"Appointment Name is Required" =  "Se requiere el nombre de la cita";
+"Please add an appointment name to proceed" = "Agregue un nombre de cita para continuar";
+"Appointment %@ Required" = "Nombramiento %@ Obligatorio";
+"Please fill the field to proceed" = "Complete el campo para continuar";
+"Appointment Date & Time is Required" = "Se requiere fecha y hora de cita";
+"Appointment name*" = "Nombre de cita *";
+"Objective" = "Objetivo";
+"Check In" = "Check In";
+"Resend Invite" = "Reenviar invitar";
+"CHECK-IN STATUS" = "CHECK-IN STATUS";
+"No Show" = "No Show";
+"Do you want to send a new invite to" = "Quieres enviar una nueva invitación a";
+
+//MARK: - Explore
+"%@ Options" = "%@ Opciones";
+"Loading..." = "Cargando...";
+"Displaying %zd Locations" = "Mostrando %zd Locations";
+"Distance" = "Distancia";
+"Rating" = "Calificación";
+"Address" = "Dirección";
+"Failed to Get Your Location" = "Error al obtener su ubicación";
+
+"What you need to know" = "Lo que necesita saber";
+"%0.2f miles" = "%0.2f millas";
+
+"Order Lyft" = "Ordenar Lyft";
+"Order Uber" = "Ordenar Uber";
+"%.1f Rating (based on %@ ratings)" = "%.1f Calificación (basada en calificaciones %@)";
+
+"Visit Website" = "Visita el sitio web";
+"Direction" = "Dirección";
+"Directions" = "Direcciones";
+"Which app do you want to use?" = "Qué aplicación quieres usar?";
+"Use Apple Maps" = "Usar Apple Maps";
+"Use Google Maps" = "Usar Google Maps";
+"Use Citymapper" = "Usar Citymapper";
+
+"Call" = "Llamar";
+
+
+//MARK: - Live Feed
+"Please type your question here" = "Escriba su pregunta aquí";
+"Add an option" = "Agregar una opción";
+"View all %lu comments" = "Ver todos los comentarios de %lu";
+"%u others" = "%u otros";
+"Liked by " = "Me gustó";
+" and " = " y ";
+"%d vote" = "%d vote";
+"%d votes" = "%d votos";
+"Your response can't be posted at the moment. Please try again later." = "Su respuesta no se puede publicar en este momento. Inténtelo de nuevo más tarde";
+"Create a Post" = "Crear una publicación";
+"Delete Post" = "Eliminar publicación";
+"Poll changes will be deleted" = "Se eliminarán los cambios en la encuesta";
+"Text changes will be deleted" = "Se eliminarán los cambios de texto";
+"Option %lu" = "Opción %lu";
+"Tap to create a poll" = "Toca para crear una encuesta";
+
+"Location Services Disabled" = "Servicios de ubicación desactivados";
+
+"Leave a comment" = "Deja un comentario";
+"Comments" = "Comentarios";
+"Post" = "Publicar";
+"New Post" = "Nueva publicación";
+"Use Location" = "Usar ubicación";
+"Edit Post" = "Editar post";
+
+
+//MARK: - People
+"Connected" = "Conectado";
+"Connection Pending" = "Conexión pendiente";
+"Connect" = "Conectar";
+"0 people"= "0 personas";
+"User have been successfully added." = "El usuario ha sido agregado exitosamente.";
+
+"Group name" = "Nombre del grupo";
+"Edit Group" = "Editar grupo";
+"Create Group" = "Crear grupo";
+"New Group" = "Nuevo grupo";
+"Delete Group" = "Eliminar grupo";
+
+"Add to Group" = "Agregar al grupo";
+"Create Attendee" = "Crear asistente";
+"Manage Groups" = "Administrar grupos";
+
+"%li People | " = "%li Personas |";
+"Displaying %zd Attendees" = "Mostrando %zd Asistentes";
+
+"Save to Contacts" = "Guardar en Contactos";
+"Are you sure you want to add this person to your phone contacts?" = "Estás seguro de que deseas agregar a esta persona a los contactos de tu teléfono?";
+"This app previously was refused permissions to contacts; Please go to settings and grant permission to this app so it can add the desired contact" =  "Esta aplicación anteriormente se le negaron permisos a los contactos; vaya a la configuración y conceda permiso a esta aplicación para puede agregar el contacto deseado ";
+
+"Please enable access to use Contacts for this app in Settings." = "Habilite el acceso para usar Contactos para esta aplicación en Configuración.";
+"Are you sure you want to delete group %@?" = "Seguro que quieres eliminar el grupo %@?";
+"Add Attendees" = "Agregar asistentes";
+"Search people" = "Buscar personas";
+"Select Attendees" = "Seleccionar asistentes";
+
+"New User" = "Nuevo usuario";
+"New Customer" = "Cliente nuevo";
+"Please choose one or more attendees" = "Elija uno o más asistentes";
+"%tu attendees" = "%tu asistentes";
+
+"Create Customer" = "Crear cliente";
+"Create Person" = "Crear persona";
+
+//MARK: - Leads
+"FILTER \n\nBy Company" = "FILTER \n\nBy Company";
+"Name" = "Nombre";
+"Lead Information" = "Información del cliente potencial";
+"Please select an area of interest from the options provided below" = "Seleccione un área de interés de entre las opciones que figuran a continuación";
+"Complete" = "Completo";
+"Engaged by %@" = "Comprometido por %@";
+"Displaying %ld Leads" = "Mostrando %ld Leads";
+"This survey is not properly configured. Please contact event administrator." = "Esta encuesta no está configurada correctamente. Póngase en contacto con el administrador del evento";
+"Edit note" = "Editar nota";
+"New note" = "Nueva nota";
+"%@ %@ - Now" = "%@ %@ - Ahora";
+"Delete note" = "Eliminar nota";
+"Create Note" = "Crear nota";
+"Open note" = "Nota abierta";
+
+"To automatically scan, place the barcode within the area below" = "Para escanear automáticamente, coloque el código de barras dentro del área debajo";
+"my leads" = "mis contactos";
+"all leads" = "todos los contactos";
+"Scan a Lead" = "Escanear un cliente potencial";
+"Notes" = "Notas";
+
+"Last Scanned" = "Último escaneado";
+"View My Leads" = "Ver mis clientes potenciales";
+"View All Appointments" = "Ver todas las citas";
+"Undo check-in" = "Deshacer registro";
+"Check Into Appointment" = "Ingresar a la cita";
+"Check-in" = "Registrarse";
+"Unchecked-in from Appointment" = "Sin marcar desde la cita";
+"No Appointments Found" = "No se encontraron citas";
+"To add this person to a different appointment, find and select the appointment, then tap “add people“ in the details screen" = "Para agregar a esta persona a una cita diferente, busque y seleccione la cita, luego toque “agregar personas“ en la pantalla de detalles";
+"TAP CARD TO VIEW PROFILE" = "TARJETA TAP PARA VER EL PERFIL";
+
+"This badge was already scanned" = "Esta insignia ya fue escaneada";
+"Badge is recognized." = "La insignia es reconocida.";
+"Invalid Badge ID or no connection to a server. Please check your internet connection and try again." = "Id. De credencial no válida o sin conexión a un servidor. Verifique su conexión a Internet y vuelva a intentarlo.";
+
+//MARK: - Customers
+"Displaying %zd Customers" = "Mostrando %zd Clientes";
+"Customer Profile" = "Perfil del cliente";
+"Edit Customer" = "Editar cliente";
+"New Customer" = "Cliente nuevo";
+"Search by name, company, or email" = "Buscar por nombre, empresa o correo electrónico";
+
+
+//MARK: - Speakers
+"Displaying %zd Speakers" = "Mostrando %zd Altavoces";
+"Edit Speaker" = "Editar orador";
+"Create Speaker" = "Crear orador";
+"New Speaker" = "Nuevo orador";
+
+//MARK: - Compete
+"HOW TO EARN POINTS" = "CÓMO GANAR PUNTOS";
+"LEADERBOARD" = "LEADERBOARD";
+"CHALLENGES" = "CHALLENGES";
+"LEADERBOARD" = "LEADERBOARD";
+"View Full Leaderboard" = "Ver tabla de clasificación completa";
+"point" = "punto";
+"points" = "puntos";
+"%@%@ place" = "%@%@ place";
+
+"th" = "";
+"st" = "";
+"nd" = "";
+"rd" = "";
+
+"1 member" = "1 miembro";
+"members" = "miembros";
+"Team Members" = "Miembros del equipo";
+"Add Team Motto" = "Agregar lema del equipo";
+"Team Name" = "Nombre del equipo";
+"Team Motto" = "Lema del equipo";
+"Add Team Members" = "Agregar miembros del equipo";
+"No Motto" = "Sin lema";
+"Edit Team" = "Editar equipo";
+
+
+//MARK: - Notifications
+"View Session" = "Ver sesión";
+"View" = "Ver";
+"Connection Request" = "Solicitud de conexión";
+"Specified" = "Especificado";
+"Are you sure you want delete this notification ?" = "Estás seguro de que quieres eliminar esta notificación?";
+"SCHEDULE THE NOTIFICATION?" = "PROGRAMAR LA NOTIFICACIÓN?";
+"NOTIFICATION HEADER" = "ENCABEZADO DE NOTIFICACIÓN";
+"NOTIFICATION" = "NOTIFICACIÓN";
+"notifications" = "notificaciones";
+"Are you sure you want to delete this notification?" = "Estás seguro de que deseas eliminar esta notificación?";
+"Are you sure you want to delete all notifications for this day?" = "Seguro que quieres eliminar todas las notificaciones de este día?";
+"This object can't found on a current event." = "Este objeto no se puede encontrar en un evento actual.";
+"Management" = "Gestión";
+"Create Notification" = "Crear notificación";
+"Edit notification" = "Editar notificación";
+
+"Are you sure you want save this notification?" = "Seguro que quieres guardar esta notificación?";
+"Are you sure you want send this notification?" = "Estás seguro de que quieres enviar esta notificación?";
+
+"The notification has not been save, please try again later." = "La notificación no se ha guardado, intente de nuevo más tarde";
+"The notification has not been sent, please try again later." = "La notificación no se ha enviado, intente de nuevo más tarde";
+
+"Your notification has been successfully scheduled" = "Su notificación se ha programado correctamente";
+"Your notification has been successfully sent." = "Su notificación ha sido enviada exitosamente.";
+
+"GROUP(S)" = "GRUPO (S)";
+"Select groups" = "Seleccionar grupos";
+
+"Tap to begin" = "Toca para comenzar";
+"Tap to complete survey" = "Toca para competir encuesta";
+"Tap to view" = "Toca para ver";
+
+"Ask a Question is now open" = "Haz una pregunta ahora está abierto";
+"Live Polling Now Active" = "Live Polling ahora activo";
+"New Notification" = "Nueva notificación";
+
+//MARK: - Materials
+"Displaying %ld Materials" = "Mostrando% ld Materiales";
+"Remove download" = "Eliminar descarga";
+"Share" = "Compartir";
+"Used in:" = "Usado en:";
+
+"Link to material can't be open as it belongs to another event." = "El enlace al material no puede abrirse ya que pertenece a otro evento.";
+"Material can't be open." = "El material no puede abrirse";
+
+"Your PIN-code" = "Su código PIN";
+"Enter the PIN-code" = "Ingrese el código PIN";
+"PIN-code is incorrect. Please try again." = "El código PIN es incorrecto. Inténtalo de nuevo.";
+
+"Checklist survey is not yet supported." = "La encuesta de lista de verificación aún no es compatible.";
+"Thank you. Your answers have been submitted" = "Gracias. Sus respuestas han sido enviadas";
+"Thank you. Your progress has been saved." = "Gracias. Tu progreso se ha salvado";
+
+"Next Question" = "Siguiente pregunta";
+"Question %lu" = "Pregunta %lu";
+"Please select an answer." = "Seleccione una respuesta.";
+"Introduction" = "Introducción";
+"%ld minute" = "%ld minute";
+"%lu questions" = "%lu preguntas";
+"Statistic %lu" = "Estadística %lu";
+
+"Least Effective" = "Menos efectivo";
+"Neutral" = "Neutral";
+"Most Effective" = "Más eficaz";
+"SUMMARY" = "RESUMEN";
+"A recap of your responses are listed below." = "Una recapitulación de sus respuestas se detalla a continuación.";
+"CORRECT" = "CORRECTO";
+
+
+//MARK: - Gallery
+"Image was not added to user photos." = "La imagen no se agregó a las fotos del usuario";
+"Are you sure you want to delete this image?" = "Seguro que quieres eliminar esta imagen?";
+
+//MARK: - Collections
+"%@ item%@" = "%@ item %@";
+"s" = "";
+"All" = "Todos";
+
+
+//MARK: - Profile
+"Contact Information" = "Información de contacto";
+"About" = "Acerca de";
+"Connections" = "Conexiones";
+"Photos" = "Fotos";
+"Interests" = "Intereses";
+
+"Edit Profile" = "Editar perfil";
+"View Attendee" = "Ver asistente";
+
+"First Name" = "Nombre";
+"First Name*" = "Nombre*";
+
+"Last Name" = "Apellido";
+"Last Name*" = "Apellido*";
+
+"Email Address" = "Dirección de correo electrónico";
+"Email Address*" = "Dirección de correo electrónico*";
+
+"Email" = "Correo electrónico";
+"Email*" = "Correo electrónico*";
+
+"Password" = "Contraseña";
+"Password*" = "Contraseña*";
+
+"Password (Re-Enter)" = "Contraseña (Reingresar)";
+"Password (Re-Enter)*" = "Contraseña (Reingresar)*";
+
+"Phone Number" = "Número de teléfono";
+"Instagram" = "Instagram";
+"Twitter" = "Twitter";
+"Snapchat" = "Snapchat";
+"Facebook" = "Facebook";
+"Linkedin" = "Linkedin";
+"Title" = "Título";
+"Company" = "Compañía";
+"Office Address" = "Dirección de la oficina";
+"Motto" = "Lema";
+"Bio" = "Bio";
+"Biography" = "Biografía";
+"Favorite Movie" = "Película favorita";
+"Favorite Song" = "Canción favorita";
+"Favorite Quote" = "Cita favorita";
+"City" = "Ciudad";
+"Degree" = "Grado";
+"Prefix" = "Prefijo";
+"Affiliation" = "Afiliación";
+"Affiliation Address" = "Dirección de afiliación";
+"Affiliation Address 1" = "Dirección de afiliación 1";
+"Affiliation Address 2" = "Dirección de afiliado 2";
+"Address 1" = "Dirección 1";
+"Address 2" = "Dirección 2";
+
+"Log Out" = "Cerrar sesión";
+
+//MARK: - Settings
+"App knowledge center" = "Centro de conocimiento de la aplicación";
+"Direct message with support" = "Mensaje directo con soporte";
+"Call customer support" = "Llamar al servicio de atención al cliente";
+"Notification" = "Notificación";
+"Calendar" = "Calendario";
+"SUPPORT" = "SOPORTE";
+"PREFERENCES" = "PREFERENCIAS";
+
+"Session Reminders" = "Recordatorios de sesión";
+"Appointment Requests" = "Solicitudes de cita";
+"Appointment Reminders" = "Recordatorios de citas";
+"Connection Requests" = "Solicitudes de conexión";
+"Direct Messages" = "Mensajes directos";
+"Public Channel Messages" = "Mensajes de canal público";
+"Weather Alerts" = "Alertas meteorológicas";
+
+"Version %@ (%@)" = "Versión %@ (%@)";
+
+//MARK: - NO DATA VIEW
+
+// Schedule
+"Free as a bird" = "Gratis como un pájaro";
+"There appears to be nothing on your schedule for today. Why not chip away at your reading list, go get some fresh air or maybe even phone home?" = "Parece que no hay nada en su agenda para hoy. Por qué no eliminar su lista de lectura, tomar un poco de aire fresco o incluso llamar a casa?";
+
+"The bird is free" = "El pájaro es libre";
+"It look's like there are currently no sessions for this day. Why not chip away at your reading list, or maybe phone home? You can also check out the Explore page and go grab a coffee." = "Parece que actualmente no hay sesiones para este día. Por qué no irse a la lista de lectura o llamar a casa? También puede visitar la página Explorar y tomar un café";
+
+
+// Customers and Leads
+"It’s quiet, too quiet" = "Es tranquilo, muy tranquilo";
+"It looks like you haven’t captured any leads yet. Keep hunting! (and remember that a warm smile goes a long way)" = "Parece que todavía no has captado ninguna pista. Sigue cazando! (Y recuerda que una cálida sonrisa va un largo camino)";
+
+"On another note" = "En otra nota";
+"It looks like no one has taken any notes for this lead. Maybe they’re new (or someone wasn’t paying attention). Either way, be the first to record an engagement." = "Parece que nadie ha tomado ninguna nota para este lead. Quizás son nuevos (o alguien no estaba prestando atención). De cualquier forma, sea el primero en grabar un compromiso.";
+
+
+// Customers
+"It’s a mystery" = "Es un misterio";
+"This customer currently has no information. Check back soon!" = "Este cliente actualmente no tiene información. Vuelve pronto";
+
+
+// Compete
+"Make the dream work" = "Haz que el sueño funcione";
+"Oops! It looks like no teams have been formed yet. Check back soon closer to competition time." = "Vaya! Parece que todavía no se han formado equipos. Vuelve pronto más cerca del tiempo de competencia.";
+
+"Watch the throne" = "Watch the throne";
+"Brace yourselves! Although this challenge isn’t live yet, we heard there is some stiff competition. Check back soon and revel in the glory." = "Prepárense! Aunque este desafío aún no está en vivo, escuchamos que hay una dura competencia. Vuelve pronto y disfruta de la gloria.";
+
+"Win-ter is coming" = "Viene el invierno";
+"It’s almost time to test you skills and prove that you are the best. Challenges should be available shortly, so check back soon." = "Ya es casi hora de poner a prueba tus habilidades y demostrar que eres el mejor. Los desafíos deben estar disponibles en breve, así que vuelva pronto.";
+
+// Speakers
+"Stage fright" = "Miedo escénico";
+"Mark Twain once said that there are two types of speakers: those who are nervous and those who are liars. Speakers are still being added, so check back soon." = "Mark Twain dijo una vez que hay dos tipos de hablantes: aquellos que están nerviosos y aquellos que son mentirosos. Todavía se están agregando parlantes, así que vuelva pronto.";
+
+
+// People
+"Fashionably late?" = "A la última moda?";
+"It looks like no one has been added to this event yet. They're probably “on the way“, so sit tight and check back soon!" = "Parece que todavía no se ha agregado a nadie a este evento. Probablemente estén “en el camino“, así que siéntate y revisa pronto!";
+
+"Break the ice" = "Rompe el hielo";
+"Tap Connect to send a connection request to this person. Once confirmed, you will be able to view their profile and contact information." = "Toque Conectar para enviar una solicitud de conexión a esta persona. Una vez confirmada, podrá ver su perfil e información de contacto.";
+
+"Deja Moo" = "Deja Moo";
+"Uh oh! It looks like no attendees have been added to this group yet. Check back in a bit if its not pasture bedtime. (We’re shameless)" = "Uh oh! Parece que no se han agregado asistentes a este grupo. todavía. Regrese un poco si no es la hora de acostarse. (Somos desvergonzados)";
+
+"Knock, knock" = "Knock, knock";
+"Open up! And by that we mean why don't you fill out your “About“ section so that people can get to know you better. (Aren't we clever?)" = "Abre! nos referimos a por qué no completa su sección “Acerca de“ para que la gente pueda conocerlo mejor. (No somos listos?)";
+
+"We may never know" = "Quizás nunca lo sepamos";
+"If this person was raised by wolves, enjoys long walks on the beach, or thinks The Beatles are overrated. Let’s hope they fill out their “About” section and reveal their true identity!" = "Si esta persona fue criada por lobos, disfruta de largas caminatas en la playa o cree que los Beatles están sobrevalorados. Ojalá llenen su sección “Acerca dey“ revelen su verdadera identidad!";
+
+
+// Materials
+"Nothing to see here, folks" = "No hay nada que ver aquí, amigos";
+"There are currently no materials for this event. That could be a good thing or a bad thing. It's really a matter of perspective. In any case, check back soon!" = "Actualmente no hay materiales para este evento. Eso podría ser algo bueno o malo. Realmente es una cuestión de perspectiva. En cualquier caso, vuelva pronto!";
+
+"Take a breather" = "Toma un respiro";
+"Events can be stressful, can't they? Have a cup of tea or coffee (iced vanilla latte with soy milk?) while you wait for more event related information. Check back soon!" = "Los eventos pueden ser estresantes, o sí? Tomar una taza de té o café (café con leche vainillado helado con leche de soya?) Mientras espera por más información relacionada con el evento. Vuelva pronto!";
+
+
+// Appointments
+"Fancy meeting you here" = "Me apetece encontrarte aquí";
+"There are currently no appointments scheduled. Why not take this opportunity to invite a few people to meet? A little face time can make all the difference." = "Actualmente no hay citas programadas. Por qué no aprovechar esta oportunidad para invitar a algunas personas a que se reúnan? Un poco de tiempo puede marcar la diferencia.";
+
+
+// Live Feed
+"Silence is golden" = "El silencio es oro";
+"But surely others would love to hear what you have to say! Why not be the first one to share your thoughts? You can also post website links, photos, and stickers." = "Pero seguramente a otros les encantaría escuchar lo que tienes que decir! Por qué no ser el primero en compartir tus pensamientos? También puedes publicar enlaces de sitios web, fotos y pegatinas";
+
+
+// Gallery
+"Oh, shoot!" = "Oh, disparar!";
+"Submit a Photo" = "Enviar una foto";
+"These walls have more white space than an art gallery in Chelsea (an overpriced neighborhood in New York City). Why not share one of your favorite shots?" = "Estas paredes tienen más espacio en blanco que una galería de arte en Chelsea (un barrio caro en Nueva York). Por qué no compartir una de tus fotos favoritas?";
+
+
+//Collection
+"Look but don't touch" = "Mira pero no tocas";
+"The finest of items and materials are not yet on display. However, our curators are hard at work. So check back soon!" = "Los mejores artículos y materiales aún no están en exhibición. Sin embargo, nuestros curadores están trabajando arduamente. Vuelva pronto!";
+
+
+// Notifications
+"The coast is clear" = "La costa es clara";
+"They say no news is good news, right? Well, following that logic means the event must be smooth sailing. Either that or you cleared away all the bad news." = "Dicen que no hay noticias son buenas noticias, verdad? Bueno, seguir esa lógica significa que el evento debe ser sin problemas. O eso o borraste todas las malas noticias";
+
+"You’re in control" = "Usted tiene el control";
+"Well… almost! You can’t micromanage what isn’t there, can you? Create your first notification and zoom in on any detail." = "Bueno... casi! No puedes microgestionar lo que no está allí, verdad? Crea tu primera notificación y acerca cualquier detalle";
+
+
+// Profile
+"Wilson!" = "Wilson!";
+"Even Tom Hanks had a volleyball to call a friend in Cast Away (Spoiler Alert: until it floated away. Yes, it was very sad). Why don't you head over to the Attendees page and make a few connections?" = "Incluso Tom Hanks tenía un voleibol para llamar a un amigo en Cast Away (Alerta Spoiler: hasta que flotaba lejos. Sí, fue muy triste). Por qué no te diriges a la página Asistentes y haces algunas conexiones?";
+
+"No selfies yet?" = "No hay selfies todavía?";
+"This must be a new record. (Just kidding!) But seriously, why not take a few photos of the event and make your friends a little more jealous." = "Esto debe ser un nuevo registro. (Es una broma!) Pero en serio, por qué no tomar algunas fotos del evento y hacer que tus amigos se pongan un poco más celosos";
+
+"Nothing of interest" = "Nada de interés";
+"Add an Interest" = "Agregar un interés";
+"This person has yet to add any of their interests. Maybe they haven’t found their passion in life (we’ve heard that’s what your 30’s are for) or maybe they haven’t had time to add any. In any case, check back soon!" = "Esta persona aún no ha agregado ninguno de sus intereses. Tal vez no hayan encontrado su pasión en la vida (hemos escuchado que es para lo que son sus 30's) o tal vez no han tenido tiempo de agregarla. En cualquier caso , Vuelve a consultar pronto!";
+
+// Eplore
+
+"Recalculating..." =  "Recalcular...";
+"Getting the group to all agree to a place can be hard enough. Too bad there are currently no locations to choose from. Check back soon!" = "Hacer que el grupo esté de acuerdo con un lugar puede ser suficientemente difícil. Lástima que actualmente no hay lugares para elegir. Vuelve pronto!";
+
+
+// Chat
+"Be the first to say “Hi“" = "Sé el primero en decir “Hola“";
+"It looks like you don't have any active conversations at the moment. Why not be the first to make an introduction? (We believe in you!)" = "Parece que no tienes ninguna conversación activa en este momento Por qué no ser el primero en hacer una presentación? (Creemos en usted!)";
+
+//Maps
+"“X” marks the spot" = "“X“ marca el lugar";
+"Remember when you used a large piece of paper to try and get around? Now it’s as simple as a few taps on a screen! Unfortunately, no maps have been added yet, so your adventure will have to wait. Check back soon!" = "Recuerdas cuando usabas una hoja de papel grande para tratar de moverte? Ahora es tan simple como unos pocos toques en una pantalla. Desafortunadamente, todavía no se han agregado mapas, por lo que tu aventura tendrá que esperar. Vuelve pronto!";
+
+

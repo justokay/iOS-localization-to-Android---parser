@@ -1,0 +1,903 @@
+<resources>
+    <string name="app_name">Cadence</string>
+
+    <string name="com.zendesk.sdk.url" translatable="false">https://eventsthatflow.zendesk.com</string>
+    <string name="com.zendesk.sdk.identifier" translatable="false">424fa1a84f88123ca55efa99a864b092b5452193429cf81d</string>
+    <string name="com.zendesk.sdk.clientIdentifier" translatable="false">mobile_sdk_client_e28834d0a83417b60693</string>
+
+    <string name="zopim_id" translatable="false">4N9lHaxaeWrhPh6xwIlO6DhPrqd5Z4LZ</string>
+
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+    <string name="title_activity_main2" translatable="false">MainActivity2</string>
+
+    <string name="empty" translatable="false" />
+    <string name="delete">Submit</string>
+    <string name="paragraph_point" translatable="false">\u2022</string>
+
+    <!--Sections-->
+    <string name="section_section_home">Home</string>
+    <string name="section_leads">Leads</string>
+    <string name="section_systems">Systems</string>
+    <string name="section_profile">Profile</string>
+    <string name="section_people">People</string>
+    <string name="section_speakers">Speakers</string>
+    <string name="section_customers">Customers</string>
+    <string name="section_materials">Materials</string>
+    <string name="section_appointments">Appointments</string>
+    <string name="section_explore">Explore</string>
+    <string name="section_live_feed">Live Feed</string>
+    <string name="section_gallery">Gallery</string>
+
+    <!--common actions-->
+    <string name="create">Create</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="apply">Apply</string>
+    <string name="save">Save</string>
+    <string name="done">Done</string>
+    <string name="send">Send</string>
+    <string name="exit">Exit</string>
+    <string name="submit">Submit</string>
+    <string name="next">Next</string>
+    <string name="begin">Begin</string>
+    <string name="update">Update</string>
+    <string name="finish">Finish</string>
+    <string name="add">Add</string>
+    <string name="search">Search</string>
+    <string name="reset">Reset</string>
+    <string name="filter">Filter</string>
+    <string name="ok">Ok</string>
+    <string name="take_photo">Take a Photo</string>
+    <string name="choose_existing">Choose existing</string>
+    <string name="copy">Copy</string>
+    <string name="invite">Invite</string>
+    <string name="edit">edit</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="reserve">Reserve</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="post">Post</string>
+
+    <!--labels-->
+    <string name="email_address">Email Address</string>
+    <string name="menu_options">Options</string>
+    <string name="tap_to_type">Tap to type</string>
+    <string name="tap_to_select">Tap to select</string>
+    <string name="type_here">Type here</string>
+    <string name="cannot_load_image">Can\'t load image.</string>
+    <string name="unknown">Unknown</string>
+    <string name="version">Version</string>
+    <string name="correct">correct</string>
+    <string name="incorrect">incorrect</string>
+    <string name="all_why">Why?</string>
+    <string name="location">Location</string>
+    <string name="simple">Simple</string>
+    <string name="loading">Loading...</string>
+    <string name="submitted_by">Submitted by</string>
+    <string name="nice">Nice!</string>
+    <string name="start_writing_hint">Start writing</string>
+    <string name="download">Download</string>
+
+
+    <!--Time-->
+    <string name="one_second_ago">1 Second Ago</string>
+    <string name="n_second_ago">%1$d Seconds Ago</string>
+    <string name="less_than_a_minute_ago">Less than a Minute Ago</string>
+    <string name="one_minute_ago">1 Minute Ago</string>
+    <string name="n_minute_ago">%1$d Minutes Ago</string>
+    <string name="one_hour_ago">1 Hour Ago</string>
+    <string name="n_hour_ago">%1$d Hours Ago</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="week_ago">a Week Ago</string>
+    <string name="day_ago">1 Days Ago</string>
+    <string name="n_day_ago">%1$d Days Ago</string>
+    <string name="n_week_ago">%1$d Weeks Ago</string>
+    <string name="minutes">minutes</string>
+    <string name="today">Today</string>
+    <string name="date">Date</string>
+
+    <!--perrmissions-->
+    <string name="permission_error_take_photo">Take photo failed. You turned off permissions to access storage. To edit, go to Apps Settings</string>
+    <string name="permission_call"> needs call permission to initiate calls.</string>
+
+    <string name="external_storage_is_unavailable">Error: external storage is unavailable</string>
+    <string name="external_storage_is_read_only">Error: external storage is read only.</string>
+
+    <!--Dialogs-->
+    <string name="error">Error</string>
+    <string name="try_again">Something went wrong. Please try again later.</string>
+    <string name="not_verify">Verification was not yet completed.</string>
+    <string name="connection_unavailable">Network connection unavailable.</string>
+    <string name="location_not_active">Location not active</string>
+    <string name="want_to_enable">Want to enable?</string>
+    <string name="cannot_load_audio">Can\'t load audio</string>
+    <string name="warning">Warning</string>
+    <string name="failure">Failure!</string>
+    <string name="file_not_exist">File not exist.</string>
+    <string name="verification_error">Verification error!</string>
+    <string name="validation_alert">Validation alert</string>
+    <string name="please_enter_valid_email_address">Please enter valid email address</string>
+    <string name="please_fill_all_required_fields">Please fill all required fields.</string>
+    <string name="error_alert">Error alert</string>
+
+    <!--Well done-->
+    <string name="all_well_done">Well Done!</string>
+
+    <string name="all_team_members">Team members</string>
+    <string name="all_well_done_saved_message">%s has been successfully saved</string>
+    <string name="all_well_done_created_message">%s has been successfully created.</string>
+    <string name="all_about_empty_state_its_mystery_title">It’s a mystery</string>
+
+    <string name="pass_validation_passwords_do_not_match">Passwords do not match</string>
+    <string name="pass_validation_use_8_or_more_characters">Use 8 or more characters (not whitespace)</string>
+    <string name="pass_validation_use_an_upper_case_letter">Use an upper case letter</string>
+    <string name="pass_validation_use_a_number">Use a number (e.g. 1234)</string>
+    <string name="pass_validation_use_a_symbol">Use a symbol (e.g. !@$%)</string>
+
+    <string name="pass_validation_use_8_or_more_characters_in_your_password">Use 8 or more characters (not whitespace) in your password</string>
+    <string name="pass_validation_use_an_upper_case_letter_in_your_password">Use an upper case letter in your password</string>
+    <string name="pass_validation_use_a_number_in_your_password">Use a number (e.g. 1234) in your password</string>
+    <string name="pass_validation_use_a_symbol_in_your_password">Use a symbol (e.g. !@$%) in your password</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="first_name">FIRST NAME</string>
+    <string name="last_name">LAST NAME</string>
+    <string name="email">EMAIL</string>
+    <string name="phone_number">PHONE NUMBER</string>
+    <string name="fax">FAX</string>
+    <string name="title">TITLE</string>
+    <string name="company">COMPANY</string>
+    <string name="city">City</string>
+    <string name="email_address_">Email Address*</string>
+    <string name="office_address">OFFICE ADDRESS</string>
+    <string name="degree">Degree</string>
+    <string name="biography">Biography</string>
+    <string name="name">Name</string>
+
+    <!--Login-->
+    <string name="create_account" translatable="false">Create Account</string>
+    <string name="log_in" translatable="false">Log In</string>
+    <string name="login_screen_email_hint" translatable="false">Email</string>
+    <string name="sign_in.error.email_is_incorrect" translatable="false">Email is incorrect</string>
+    <string name="sign_in.error.password_is_incorrect" translatable="false">Password is empty</string>
+    <string name="login_screen_password_hint" translatable="false">Password</string>
+    <string name="login_screen_login_button" translatable="false">Log In</string>
+    <string name="login_screen_forgot_password" translatable="false">forgot password?</string>
+    <string name="confirm_registration_welcome" translatable="false">Welcome %1$s</string>
+    <string name="confirm_registration_invite_member" translatable="false">Your invitation was sent to: \n%1$s</string>
+    <string name="confirm_email" translatable="false">You\’re all set. Make sure you\n confirm your email address.</string>
+    <string name="confirm_lets_begin" translatable="false">Let\’s Begin!</string>
+    <string name="lets_get_started">Let’s get started!</string>
+    <string name="forgot_password_label" translatable="false">Forgotten your password?</string>
+    <string name="forgot_password_description" translatable="false">Please enter your email address and we\'ll\n get you back on track</string>
+    <string name="forgot_password_send_link" translatable="false">Send Link</string>
+    <string name="invalid_email" translatable="false">Invalid email, please type correct email.</string>
+    <string name="forgot_password_cannot_find_email" translatable="false">This email is not registered in the system.</string>
+    <string name="registration_first_name_required" translatable="false">"First name is required. "</string>
+    <string name="registration_last_name_required" translatable="false">"Last name is required. "</string>
+    <string name="registration_email_required" translatable="false">Email is required.\n</string>
+    <string name="registration_password_required" translatable="false">Password is required.\n</string>
+    <string name="registration_user_exist" translatable="false">User with this email already exists. Please try to login.</string>
+
+    <string name="onboarding_select_language_default_header">DEFAULT LANGUAGE</string>
+    <string name="onboarding_select_language_available_header">AVAILABLE LANGUAGES</string>
+    <string name="onboarding_complete_profile_info">Complete Profile Info</string>
+    <string name="onboarding_complete_profile_setup">Complete Profile Info</string>
+    <string name="onboarding_complete_your_profile_message">Complete your profile to let others know more about who you are.</string>
+    <string name="onboarding_profile_photo">Profile Photo</string>
+    <string name="onboarding_upload_photo">Upload photo</string>
+    <string name="onboarding_or_import_from">Or import from</string>
+    <string name="onboarding_no_photo_say_cheese">Say cheese!</string>
+    <string name="onboarding_no_photo_are_you_sure">Are you sure you don’t want to upload a profile photo?</string>
+    <string name="onboarding_no_photo_people_with_profile_photos_are_50_happier">Studies show that people with profile photos are 50% happier.*</string>
+    <string name="onboarding_no_photo_based_on_absolutely_nothing">*based on absolutely nothing</string>
+    <string name="onboarding_no_photo_ok_upload_photo">Ok, I’ll upload a photo</string>
+    <string name="onboarding_no_photo_continue_without_photo">Continue without photo</string>
+    <string name="onboarding_photo_uploaded">Photo Uploaded</string>
+    <string name="onboarding_validation_error">Validation error</string>
+    <string name="onboarding_error_first_name_last_name">First name and Last name fields shouldn\'t be empty</string>
+    <string name="onboarding_invalid_phone_number">Invalid phone number</string>
+    <string name="onboarding_profile_has_been_successfully_set_up">Your profile has been successfully set up. Hang tight, you’re almost finished with onboarding.</string>
+    <string name="onboarding_thanks_for_clarifying">Thanks for clarifying</string>
+    <string name="onboarding_why_title_you_earned_it_mesage">You’ve earned it! So why not show it off? Providing your job title will also make it easier for others learn more about you and connect over common ground.</string>
+    <string name="onboarding_why_title_badge_of_honor">Badge of honor</string>
+    <string name="onboarding_why_phone_number_message">Your phone number will only be shared with people you choose to connect with. That way, staying in touch will be easy both during and after the event.</string>
+    <string name="onboarding_why_phone_private_digits">Private digits</string>
+    <string name="onboarding_guide_app_menu">App Menu</string>
+    <string name="onboarding_guide_messages">Messages</string>
+    <string name="onboarding_guide_swipe_to_the_right_app_menu">swipe to the right to access the app menu</string>
+    <string name="onboarding_guide_swipe_or_tap_event_info">swipe or tap to access additional event info</string>
+    <string name="onboarding_profile_first_name">First Name*</string>
+    <string name="onboarding_profile_last_name">Last name*</string>
+    <string name="onboarding_profile_title">Title</string>
+    <string name="onboarding_profile_company">Company</string>
+    <string name="onboarding_profile_phone_number">Phone Number</string>
+    <string name="onboarding_profile_office_address">Office Address</string>
+    <string name="onboarding_profile_biography">Biography</string>
+    <string name="onboarding_profile_motto">motto</string>
+    <string name="onboarding_profile_twitter">twitter</string>
+    <string name="onboarding_profile_instagram">instagram</string>
+    <string name="onboarding_profile_linkedin">linkedin</string>
+    <string name="onboarding_profile_facebook">facebook</string>
+    <string name="onboarding_select_language_description">Please select a language below. You can always change this in your settings later.</string>
+
+    <string name="presentation_slide_text_events">View upcoming events or relive your <b>favorite moments</b></string>
+    <string name="presentation_slide_text_materials">All of your audio, video, URLs, &#38; survey materials in <b>one place</b></string>
+    <string name="presentation_slide_text_people"><b>Instantly connect</b> with anyone over shared interests</string>
+    <string name="presentation_slide_text_feed"><b>Keep up</b> with all of the event’s most memorable moments</string>
+    <string name="presentation_slide_text_gallery">View a <b>curated collection</b> of photos &#38; save your favorites</string>
+    <string name="presentation_slide_text_messages"><b>Converse</b> with people through channels and private messages</string>
+    <string name="presentation_slide_text_explore">Explore a new city with your own <b>personal concierge</b></string>
+    <string name="presentation_slide_text_leads">Easily find, capture, and engage <b>customers</b> like never before</string>
+    <string name="presentation_slide_text_appointments">Meet with <b>who you want</b>, when you want, where you want</string>
+    <string name="onboarding_welcome_to_cadence">Welcome to %s</string>
+    <string name="onboarding_welcome_we_really_excited_message">We’re really excited to have you on board. Let’s take a moment to get your profile setup to ensure a spectacular experience.</string>
+    <string name="onboarding_welcome_set_up_profile">Set Up Profile</string>
+
+    <!--Home-->
+    <string name="post_to_live_feed">Post to Live Feed</string>
+    <string name="post_to">Post to %1$s</string>
+    <string name="submit_to_gallery">Submit to Gallery</string>
+
+    <string name="recommended_content">Recommended Content</string>
+    <string name="systems">Systems</string>
+    <string name="announcements">Announcements</string>
+    <string name="n_items">%1$d items</string>
+    <string name="days">Days</string>
+    <string name="hours">Hours</string>
+    <string name="mins">Mins</string>
+    <string name="secs">Secs</string>
+    <string name="now">now</string>
+    <string name="n_m_ago">%1$dm ago</string>
+    <string name="n_h_ago">%1$dh ago</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="create_appointment">Create Appointment</string>
+    <string name="quickbook_appointment">Quickbook Appointment</string>
+    <string name="scan_badge">Scan a badge</string>
+    <string name="appointments_check_in">Appointments Check-in</string>
+    <string name="event_details">Event Details</string>
+    <string name="speaker_not_found">Speaker not found.</string>
+    <string name="session_not_found">Session not found.</string>
+    <string name="share_photo">Share a Photo</string>
+    <string name="choose_location_below">Choose a location below</string>
+    <string name="full_weather_forecast">Tap for full weather forecast</string>
+    <string name="view_all_notifications">View all notifications (%1$d)</string>
+    <string name="session_next_title">Next Session</string>
+    <string name="session_date_format">%1$s at %2$s</string>
+    <string name="press_back">Please press back again to exit</string>
+    <string name="home_tip_tap_the_map">Tap the map for directions and transportation</string>
+
+    <string name="home.empty.title">Take a breather</string>
+    <string name="home.empty.message">Events can be stressful, can’t they? Have a cup of tea or coffee (iced vanilla latte with soy milk?) while you wait for more event related information. Check back soon!</string>
+    <string name="home.weather.label">%1$s %2$d˚</string>
+    <string name="home.event_details">Event Details</string>
+    <string name="session_current_title">Current Session</string>
+    <string name="session_day_format">MMMM dd</string>
+    <string name="session_day_today">Today</string>
+    <string name="session_day_tomorrow">Tomorrow</string>
+    <string name="session_time_format_without_minute">h aa</string>
+    <string name="session_time_format">h:mm aa</string>
+
+    <!--Chat-->
+    <string name="leave_channel">Leave channel</string>
+    <string name="invite_members">Invite members</string>
+    <string name="invite_member">Invite member</string>
+    <string name="leave_group">Leave group</string>
+    <string name="view_profile">View Profile</string>
+    <string name="search_channel">search by channel name or person</string>
+    <string name="created_this_channel_today">You created this channel today.</string>
+    <string name="created_this_channel_yesterday">You created this channel yesterday.</string>
+    <string name="created_this_channel">You created this channel %1$s.</string>
+    <string name="channel_purpose">"Channel Purpose: "</string>
+    <string name="tap_to_invite_members">Tap to invite members</string>
+    <string name="send_massage_hint">Message @%s</string>
+    <string name="send_message_hint_channel">Message @channel</string>
+    <string name="send_sticker">Send sticker</string>
+    <string name="send_photo_or_video">Send photo or video</string>
+    <string name="send_audio">Send audio</string>
+    <string name="send_location">Send location</string>
+    <string name="left_the_channel">left the channel</string>
+
+    <string name="search_by_name">Search by Name</string>
+
+    <string name="direct_message">DIRECT MESSAGE</string>
+    <string name="direct_messages">DIRECT MESSAGES</string>
+
+    <string name="new_channel">NEW CHANNEL</string>
+    <string name="public_label">PUBLIC</string>
+    <string name="private_label">PRIVATE</string>
+    <string name="channels">CHANNELS</string>
+    <string name="channel_name">CHANNEL NAME</string>
+    <string name="purpose_optional">"PURPOSE (OPTIONAL)"</string>
+    <string name="cant_join_attendee_to_chanel">Any attendee at this event can join this channel from the browser list.</string>
+    <string name="private_channel_message">Private channels are invite-only. The channel does not show up in the channel list unless invited.</string>
+    <string name="channel_name_hint">Name must be 32 characters or less</string>
+    <string name="write_message">lets_get_started</string>
+
+    <string name="left_channel">%1$s left the %2$s.</string>
+    <string name="channel">channel</string>
+    <string name="group">group</string>
+
+    <string name="call_unavailable">Call feature is not available!</string>
+    <string name="user_dont_have_phone_number">User does not have a phone number</string>
+    <string name="user_dont_have_phone_email">User does not have a email.</string>
+    <string name="message_hint">Message @%$1s</string>
+    <string name="user_left_channel">%$1s %$2s left the channel</string>
+    <string name="user_join_channel">%$1s %$2s joined this channel</string>
+
+    <string name="have">have</string>
+    <string name="has">has</string>
+
+    <string name="tap_for_more_message_options">Tap for more message options</string>"
+
+    <string name="Audio">Audio</string>
+    <string name="stickers">Stickers</string>
+
+    <string name="image_saved_successfully">Image saved successfully</string>
+    <string name="image_has_not_been_saved">Image has not been saved</string>
+
+    <string name="message_has_not_been_delivered">Message has not been delivered</string>
+    <string name="resend">Resend</string>
+    <string name="delete_message">Delete message</string>
+    <string name="camera_library">Camera Library</string>
+    <string name="invite_chat_member_select_attendee">SELECT ATTENDEES</string>
+    <string name="invite_chat_member">MEMBER</string>
+    <string name="create_chat_attendees">ATTENDEES</string>
+
+    <string name="empty_conversation_title">Be the first to say \"Hi\"</string>
+    <string name="empty_conversation_message">It look like you don\'t have any active conversations at the moment. Why not be the first to make an introduction? (We believe in you!)</string>
+    <string name="empty_conversation_action">Write a Message</string>
+    <string name="invite_member_to_channel"><u>Invite members to channel</u></string>
+    <string name="empty_conversation_purpose_label">Channel Purpose: </string>
+    <string name="empty_chat_date">You created this channel %1$s.</string>
+
+    //override zopim chat title
+    <string name="chat_activity_title">@string/support_direct_message</string>
+
+    <!--Settings-->
+    <string name="log_out">Log Out</string>
+    <string name="knowledge_center">App knowledge center</string>
+    <string name="customer_support">Call customer support</string>
+    <string name="calendar">Calendar</string>
+    <string name="support">SUPPORT</string>
+    <string name="preferences">PREFERENCES</string>
+    <string name="support_about">Learn about app</string>
+    <string name="support_submit_ticket">Submit a support ticket</string>
+    <string name="support_direct_message">Direct message with support</string>
+
+    <!--Notifications-->
+    <string name="notifications">Notifications</string>
+    <string name="notification_ars_question_set_corrected_title">Live Polling Now Active</string>
+    <string name="view">View</string>
+    <string name="view_reminder">View Reminder</string>
+    <string name="scheduled_meet_up">%1$s\'ve scheduled a meet up for %2$s at %3$s</string>
+    <string name="delete_notification">Are you sure you want to delete this notification?</string>
+    <string name="delete_notifications">"Are you sure you want to delete all notifications for this day?"</string>
+
+    <!--Customers-->
+    <string name="all_contact_info_title">contact information</string>
+
+    <!--transitnameLabelname-->
+    <string name="tn_bottom_bar">bottom bar</string>
+    <string name="tn_logo">logo</string>
+    <string name="tn_container">container</string>
+
+    <!--sign up screen-->
+    <string name="signup_screen_name_hint">Name</string>
+    <string name="signup_screen_email_hint">Email</string>
+    <string name="signup_screen_password_hint">Password</string>
+    <string name="signup_screen_confirm_password_hint">Confirm Password</string>
+    <string name="signup_screen_signup_button" translatable="false">Sign Up</string>
+
+    <!--connections-->
+    <string name="connections">Connections</string>
+    <string name="connections_empty_title">Wilson!</string>
+    <string name="connections_empty_message">Even Tom Hanks had a volleyball to call a friend in Cast Away (Spoiler Alert: until it floated away. Yes, it was very sad). Why don’t you head over to the Attendees page and make a few connections?</string>
+    <string name="connections_error">Access to this user profile is restricted.</string>
+
+    <!--profile screen-->
+    <string name="name_format">%1$s %2$s</string>
+    <string name="profile.title">Profile</string>
+    <string name="profile.connection_status.connected">Connected</string>
+    <string name="profile.connection_status.not_connected">Connect</string>
+    <string name="profile.connection_status.connecting">Connection Pending</string>
+    <string name="profile.row_label.about">About</string>
+    <string name="profile.row_label.contact_info">Contact Information</string>
+    <string name="profile.row_label.connections">Connections</string>
+    <string name="profile.row_label.my_role">My Role</string>
+    <string name="profile.row_label.photos">Photos</string>
+    <string name="profile.row_label.interests">Interests</string>
+    <string name="profile.error.take_avatar_permission_denied">"Upload avatar failed. You turned off permissions to access storage. To edit, go to Apps Settings"</string>
+    <string name="profile.save_to_contacts">Save to Contacts</string>
+
+    <!--profile about-->
+    <string name="profile.about.title">About</string>
+    <string name="profile.edit_ptofile">Edit Profile</string>
+    <string name="profile.about.empty.title">Knock, knock</string>
+    <string name="profile.about.empty.text">Open up! And by that we mean why don\'t you fill out your \"About\" SECTION so that people can get to know you better. (Aren\'t we clever?)</string>
+    <string name="profile.about.empty.action">Edit Profile</string>
+    <string name="profile.about.label.motto">Motto</string>
+    <string name="profile.about.label.biography">Biography</string>
+    <string name="profile.about.label.favorite_movie">Favorite movie</string>
+    <string name="profile.about.label.favorite_song">Favorite song</string>
+    <string name="profile.about.label.favorite_quote">Favorite quote</string>
+
+    <!--profile contact information-->
+    <string name="profile.contact_info.title">Contact information</string>
+    <string name="profile.contact_info.empty.title">“You never called!”</string>
+    <string name="profile.contact_info.empty.message">Is what you’ll catch yourself saying before you realize it’s because you never filled out the “Contact Information” SECTION.</string>
+    <string name="profile.contact_info.empty.action">Edit Profile</string>
+    <string name="profile.contact_info.label.first_name">First name</string>
+    <string name="profile.contact_info.label.last_name">Last name</string>
+    <string name="profile.contact_info.label.email">Email</string>
+    <string name="profile.contact_info.label.phone">Phone number</string>
+    <string name="profile.contact_info.label.instagram">Instagram</string>
+    <string name="profile.contact_info.label.twitter">Twitter</string>
+    <string name="profile_contact_info_label_snapchat">Snapchat</string>
+    <string name="profile.contact_info.label.facebook">Facebook</string>
+    <string name="profile.contact_info.label.linkedin">Linkedin</string>
+    <string name="profile.contact_info.label.title">Title</string>
+    <string name="profile.contact_info.label.department">Department</string>
+    <string name="profile.contact_info.label.company">Company</string>
+    <string name="profile.contact_info.label.office_address">Office address</string>
+    <string name="profile.contact_info.label.degree">Degree</string>
+
+    <!--profile photo-->
+    <string name="profile.photo.title">Photos</string>
+    <string name="profile.photo.empty.title">No selfies yet?</string>
+    <string name="profile.photo.empty.text">This must be a new record. (Just kidding!) But seriously, why not take a few photos of the event and make your friends a little more jealous.</string>
+    <string name="profile.photo.menu.add_photo">Add photo</string>
+
+    <!--profile edit screen-->
+    <string name="profile.edit.title">Edit Profile</string>
+    <string name="profile.edit.toolbar_cancel">Cancel</string>
+    <string name="profile.edit.toolbar_save">Save</string>
+    <string name="profile.edit.label.hint">Tap to type</string>
+    <string name="profile.edit.label.first_name">First Name</string>
+    <string name="profile.edit.label.last_name">Last Name</string>
+    <string name="profile.edit.label.email">Email Address</string>
+    <string name="profile.edit.label.first_name.required">First Name*</string>
+    <string name="profile.edit.label.last_name.required">Last Name*</string>
+    <string name="profile.edit.label.email.required">Email Address*</string>
+    <string name="profile.edit.label.password">Password</string>
+    <string name="profile.edit.label.password_confirm">Password (re-enter)</string>
+    <string name="profile.edit.label.phone">Phone Number</string>
+    <string name="profile.edit.label.instagram">Instagram</string>
+    <string name="profile.edit.label.twitter">Twitter</string>
+    <string name="profile.edit.label.snapchat">Snapchat</string>
+    <string name="profile.edit.label.facebook">Facebook</string>
+    <string name="profile.edit.label.linkedin">LinkedIn</string>
+    <string name="profile.edit.label.title">Title</string>
+    <string name="profile.edit.label.department">Department</string>
+    <string name="profile.edit.label.company">Company</string>
+    <string name="profile.edit.label.office_address">Office Address</string>
+    <string name="profile.edit.label.motto">Motto</string>
+    <string name="profile.edit.label.bio">Bio</string>
+    <string name="profile.edit.label.favorite_movie">Favorite Movie</string>
+    <string name="profile.edit.label.favorite_song">Favorite Song</string>
+    <string name="profile.edit.label.favorite_quote">Favorite Quote</string>
+
+    <!-- My job role -->
+    <string name="job_role">Job Role</string>
+    <string name="job_role_description">Job Description</string>
+    <string name="job_role_responsibilities">Job responsibilities</string>
+
+    <!--notifications screen-->
+    <string name="notifications_empty_title">Nothing to see here!</string>
+    <string name="notifications_empty_subtitle">You currently have no\nnew notifications</string>
+
+    <!--session detail screen-->
+    <string name="session_detail.option_menu.export_to_calendar">Export to Calendar</string>
+    <string name="session_detail.time_point_pattern" translatable="false">h:mm a</string>
+    <string name="session_detail.time_format" translatable="false">%1$s - %2$s</string>
+    <string name="session_detail.label.location">Location</string>
+    <string name="session_detail.label.description">Description</string>
+    <string name="session_detail.label.materials">Materials</string>
+    <string name="session_detail.label.presenters">Presenter(s)</string>
+    <string name="session_detail.button.ask_question">Ask a Question</string>
+    <string name="session_detail.question_reason">Submitted questions will be answered by the appropriate party as soon as possible</string>
+    <string name="session_detail.material.type_format">%1$s | %2$s</string>
+
+    <!--ask question screen-->
+    <string name="ask_question.title">Ask a question</string>
+    <string name="ask_question.error.question_is_empty">Please enter question</string>
+    <string name="ask_question.intro">Submit a question to the host(s) for “%1$s”</string>
+    <string name="ask_question.tap_to_create_a_question">Tap to create a question</string>
+    <string name="ask_question.well_done_message">You’ve successfully submitted a question. Feel free to add more or “like” any questions that resonate with you.</string>
+
+    <!--refine screen-->
+    <string name="refine.title">Refine</string>
+    <string name="refine.search">Search</string>
+    <string name="refine.filter.reset">Reset</string>
+    <string name="refine.filter.label.arrange_by">Arrange by</string>
+    <string name="refine.filter.label.by_track">By Track</string>
+    <string name="refine.filter.label.by_presenter">By Presenter</string>
+    <string name="refine.filter.view_all">View All</string>
+    <string name="arrange_by">ARRANGE BY</string>
+
+    <!--assessment screen-->
+    <string name="assessment.title">General Session Survey</string>
+    <string name="assessment.toolbar_button.cancel">Cancel</string>
+    <string name="assessment.toolbar_button.begin">Begin</string>
+    <string name="assessment.toolbar_button.save">Save</string>
+    <string name="assessment.toolbar_button.next">Next</string>
+    <string name="assessment.counter.introduction_title">Introduction</string>
+    <string name="assessment.counter.question_title_format">Question %1$d</string>
+    <string name="assessment.counter_format" translatable="false">%1$d/%2$d</string>
+    <string name="assessment.action_button.begin">Begin</string>
+    <string name="assessment.action_button.next">Next Question</string>
+    <string name="assessment.action_button.submit">Submit</string>
+    <string name="assessment.error.no_selected_answers">Please select an answer.</string>
+    <string name="assessment.error.no_text">Please type an answer</string>
+    <string name="assessment.complete_text">Thank you. Your answers have been submitted.</string>
+    <string name="assessment.free_text.hint">Type something</string>
+    <string name="assessment.summary">SUMMARY</string>
+    <string name="assessment.summary_title">General Session Survey</string>
+    <string name="assessment.summary_question_n">Question %1$d</string>
+    <string name="assessment.locked">Locked</string>
+    <string name="assessment.checklist_not_supported">Checklist not supported</string>
+
+    <!--attendees screen-->
+    <string name="attendees_empty_description">It looks like no one has been added to this event yet. They\'re probably \"on the way\", so sit tight and check back soon!</string>
+    <string name="attendees_empty_title">Fashionably late?</string>
+    <string name="attendees_all_team">All</string>
+    <string name="displaying_count_attenees">Displaying %d Attendiess</string>
+
+    <!--schedule screen-->
+    <string name="schedule.empty.title">The bird is free</string>
+    <string name="schedule.empty.message">It look’s like there are currently no sessions for this day. Why not chip away at your reading list, or maybe phone home? You can also check out the Explore page and go grab a coffee.</string>
+    <string name="schedule.title.my">My schedule</string>
+    <string name="schedule.title.all">Schedule at a glance</string>
+    <string name="schedule_ask_question_empty_title">Any Questions?</string>
+    <string name="schedule_ask_question_empty_message">It looks like no one has asked any questions yet for this session. Why not be the first? You may post something that someone else is thinking!</string>
+    <string name="schedule_ask_question_empty_actionse">Ask Question</string>
+    <string name="schedule_appointment_request">APPOINTMENT REQUEST</string>
+    <string name="schedule_in_my_schedulet">In My Schedule</string>
+    <string name="schedule_add_to_schedule">Add to Schedule</string>
+    <string name="schedule_remove_from_schedule">REMOVE FROM SCHEDULE</string>
+
+    <string name="read_more">... read more</string>
+    <string name="unsupported_open_modality_type">Unsupported open modality type</string>
+    <string name="displaying_count_sessions">Displaying %d Sessions</string>
+    <string name="by_track">By Track</string>
+    <string name="by_presenter">By Presenter</string>
+
+    <!--event feed list screen-->
+    <string name="feeds.empty.title">Silence is golden</string>
+    <string name="feeds.empty.message">But surely others would love to hear what you have to say! Why not be the first one to share your thoughts? You can also post website links, photos, and stickers.</string>
+    <string name="feeds.empty.action">Create a Post</string>
+    <string name="feeds.menu.add">Add Feed</string>
+    <!--<plurals name="second_period">-->
+    <!--<item quantity="one">%1$d Second Ago</item>-->
+    <!--<item quantity="other">%1$d Seconds Ago</item>-->
+    <!--</plurals>-->
+    <!--<plurals name="minute_period">-->
+    <!--<item quantity="one">%1$d Minute Ago</item>-->
+    <!--<item quantity="other">%1$d Minutes Ago</item>-->
+    <!--</plurals>-->
+    <!--<plurals name="hour_period">-->
+    <!--<item quantity="one">%1$d Hour Ago</item>-->
+    <!--<item quantity="other">%1$d Hours Ago</item>-->
+    <!--</plurals>-->
+    <!--<plurals name="day_period">-->
+    <!--<item quantity="one">Yesterday</item>-->
+    <!--<item quantity="other">%1$d Days Ago</item>-->
+    <!--</plurals>-->
+    <!--<plurals name="week_period">-->
+    <!--<item quantity="one">%1$d Week Ago</item>-->
+    <!--<item quantity="other">%1$d Weeks Ago</item>-->
+    <!--</plurals>-->
+
+    <!--Feed-->
+    <string name="view_all_comments">View all %1$d comments</string>
+    <string name="liked_by">Liked by </string>
+    <string name="liked_and"> and  </string>
+    <string name="liked_other"> others</string>
+    <string name="comments_title">COMMENTS</string>
+    <string name="comments_hint">leave a comment</string>
+    <string name="new_feed_title">NEW POST</string>
+    <string name="option_n">Option %d</string>
+    <string name="add_option">Add an option</string>
+    <string name="delete_post">Delete Post</string>
+    <string name="pool_vote_count">%1$d votes</string>
+
+    <!--Weather-->
+    <string name="weather_details_sunset_rise_time_formatter" formatted="false" translatable="false">h:m a</string>
+    <string name="weather_details_hours_formatter" formatted="false" translatable="false">h a</string>
+    <string name="weather_details_temperature_formatter" translatable="false">%.0f°</string>
+    <string name="weather_details_daily_day_formatter" translatable="false">EEEE</string>
+    <string name="weather_details_this_week">This week</string>
+    <string name="weather_details_powered_by_dark_sky">Powered by Dark Sky</string>
+    <string name="weather_details_now">Now</string>
+    <string name="weather_details_sunset">Sunset</string>
+    <string name="weather_details_sunrise">Sunrise</string>
+    <string name="weather_detail_forecast">Forecast</string>
+    <string name="weather_details_today_formatter" translatable="false">EEEE, MMMM d</string>
+    <string name="weather_humidity">Humidity:</string>
+    <string name="weather_wind">Wind:</string>
+    <string name="weather_precipitation">Precipitation:</string>
+
+    <!--explore-->
+    <string name="explore_locations_empty_title">Recalculating…</string>
+    <string name="explore_locations_empty_description">Getting the group to all agree to a place can be hard enough. Too bad there are currently no locations to choose from. Check back soon!</string>
+    <string name="explore_visit_website">Visit Website</string>
+    <string name="explore_order_lyft">Order Lyft</string>
+    <string name="explore_order_uber">Order Uber</string>
+    <string name="explore_rating_based">%f Rating (based on $d ratings)</string>
+    <string name="explore_rating">%f Rating</string>
+    <string name="explore_directions">Directions</string>
+    <string name="explore_direction">Direction</string>
+    <string name="explore_direction_app_choise">Which app do you want to use?</string>
+    <string name="explore_use_apple_maps">Use Apple Maps</string>
+    <string name="explore_use_google_maps">Use Google Maps</string>
+    <string name="explore_use_citymapper">Use Citymapper</string>
+    <string name="explore_n_miles">%s miles</string>
+    <string name="explore_displaying_n_locations">Displaying %d Locations</string>
+    <string name="explore_filter_distance">Distance</string>
+    <string name="explore_filter_rating">Rating</string>
+    <string name="explore_filter_cost">By Cost</string>
+
+    <!--appointment-->
+    <string name="appointment">APPOINTMENT</string>
+    <string name="transition_name_appointment_title" translatable="false">appointment_title</string>
+    <string name="transition_name_appointment_time" translatable="false">appointment_time</string>
+    <string name="transition_name_appointment_avatar" translatable="false">appointment_avatar</string>
+    <string name="transition_name_appointment_name" translatable="false">appointment_name</string>
+    <string name="transition_name_appointment_position" translatable="false">appointment_position</string>
+    <string name="name_type_date_time" translatable="false">Name, Type, Date &amp; Time</string>
+    <string name="appointments_empty_message">There are currently no appointments scheduled. Why not take this opportunity to invite a few people to meet? A little face time can make all the difference.</string>
+    <string name="appointments_empty_title">Fancy meeting you here</string>
+
+    <string name="appointment_detail_attendee_resend_invite_button_text">Resend Invite</string>
+    <string name="appointment_detail_attendee_check_in_button_text">check-in</string>
+    <string name="appointment_detail_attendee_checked_in_text">Checked in</string>
+    <string name="appointment_detail_attendee_resend_invitation_success_title">Invitation Sent</string>
+    <string name="appointment_detail_attendee_resend_invitation_success_subtitle">Your successfully sent %1$s a new appointment invitation</string>
+    <string name="appointment_detail_attendee_resend_invitation_menu_title">Do you want to send a new invite to %1$s</string>
+
+    <string name="appointment_location_group_activity_title">LOCATION TYPE</string>
+    <string name="appointment_location_group_all_group_title">View All Locations</string>
+    <string name="new_attendee_address_1">Address 1</string>
+    <string name="new_attendee_address_2">Address 2</string>
+    <string name="new_attendee_title">New attendee</string>
+
+    <string name="new_appointment_people_selector_view_availability_btn_text">View Availability ></string>
+    <string name="presentation_slide_text_schedule"><b>Quickly</b> view session times, locations, materials, &#38; speakers</string>
+    <string name="onboarding_guide_swipe_to_the_left_messages">swipe to the left to access your messages</string>
+    <string name="available">AVAILABLE</string>
+    <string name="not_available">NOT AVAILABLE</string>
+    <string name="room_cannot_accommodate_the_number_of_selected_invitees">This room cannot accommodate the number of selected invitees (%s)</string>
+    <string name="av_available_with_line">| AV Available</string>
+    <string name="av_available">AV Available</string>
+    <string name="seats">seats</string>
+    <string name="appointment_invite_guests">Complete the sections below to invite guests to your appointment</string>
+    <string name="details">DETAILS</string>
+    <string name="host">HOST</string>
+    <string name="select_a_location_for_your_appointment">Select a location for your appointment</string>
+    <string name="people">people</string>
+    <string name="invite_people_to_your_appointment">Invite people to your appointment</string>
+    <string name="personal_message">PERSONAL MESSAGE</string>
+    <string name="provide_special_instructions">Provide special instructions (optional)</string>
+    <string name="send_invites">SEND INVITES</string>
+    <string name="send_invites_description">People will receive invitation emails</string>
+    <string name="search_people">Search people</string>
+    <string name="search_people_by">Search by: Name, Email, Company, Region, Tumor Type people</string>
+    <string name="create_person">CREATE PERSON</string>
+    <string name="quickbook_meeting">%s`s Quickbook Meeting</string>
+    <string name="fill_out_details">Please fill out DETAILS section first</string>
+    <string name="fill_out_location">Please fill out LOCATION section first.</string>
+    <string name="fill_out_people">Please fill out PEOPLE section first.</string>
+    <string name="currently_scheduled">Currently Scheduled</string>
+    <string name="following_people_have_existing_sessions_or_appointments">The following people have existing sessions or appointments: </string>
+    <string name="suggested_times_to_meet">Suggested times to meet</string>
+    <string name="update_time_and_invite">Update Time and Invite</string>
+    <string name="continue_without_suggested_time">Continue Without Suggested Time</string>
+    <string name="new_appointment">New Appointment</string>
+    <string name="appointment_has_been_confirmed_with_invite">Your appointment has been confirmed and invites have been sent.</string>
+    <string name="appointment_has_been_confirmed">Your appointment has been confirmed</string>
+    <string name="please_check_appointment_parameters_and_try_again">Please, check appointment parameters and try again</string>
+    <string name="location_will_be_reset_on_changing_time_duration">Location will be reset on changing time duration</string>
+    <string name="location_will_be_reset_on_changing_start_date">Location will be reset on changing start date</string>
+    <string name="please_add_an_appointment_name_to_proceed">Please add an appointment name to proceed</string>
+    <string name="appointment_name_is_required">Appointment Name is Required</string>
+    <string name="appointment_opportunity_is_required">Appointment Opportunity is Required</string>
+    <string name="appointment_name">APPOINTMENT NAME*</string>
+    <string name="objective">OBJECTIVE</string>
+    <string name="date_and_time">DATE &amp; TIME</string>
+    <string name="duration">DURATION</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="please_select_user_from_list_to_proceed">Please select user from list to proceed</string>
+    <string name="host_is_required">Host is Required</string>
+    <string name="new_user">New User</string>
+    <string name="new_customer">New Customer</string>
+    <string name="availability">AVAILABILITY</string>
+    <string name="this_will_change_duration_of_your_appointment">This will change duration of your appointment</string>
+    <string name="would_you_like_to_proceed">Would you like to proceed?</string>
+    <string name="in_this_appointment"> in this appointment</string>
+    <string name="count_people">%d people</string>
+    <string name="accepted">Accepted</string>
+    <string name="declined">Declined</string>
+    <string name="tentative">Tentative</string>
+    <string name="change_status">Change Status</string>
+    <string name="my_appointments">my appointments</string>
+    <string name="all_appointments">all appointments</string>
+    <string name="invalid_badge_id">Invalid badge ID</string>
+    <string name="this_person_is_already_present_in_attendees_list_for_this_appointment">This person is already present in attendees list for this appointment.</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="pending">Pending</string>
+    <string name="declined_responses">Declined Responses</string>
+    <string name="response_pending">Response Pending</string>
+    <string name="displaying_count_appointments">Displaying %d Appointments</string>
+    <string name="by_status">By Status</string>
+    <string name="by_day">By Day</string>
+    <string name="by_organizer">By Organizer</string>
+    <string name="by_location">By Location</string>
+    <string name="delete_appointment">Delete appointment</string>
+    <string name="cancel_appointment">Cancel appointment</string>
+    <string name="add_person_scan_badge">Add Person (Scan badge)</string>
+    <string name="add_person_manually">Add Person (Manually)</string>
+    <string name="export_to_calendar">Export to Calendar</string>
+    <string name="edit_appointment">Edit Appointment</string>
+    <string name="scheduler">SCHEDULER</string>
+    <string name="check_in_people">Check-in People</string>
+    <string name="to_automatically_scan_place_the_barcode_within_the_area_below">To automatically scan, place the barcode within the area below</string>
+    <string name="attendee_sign_in_title">SIGN-IN</string>
+    <string name="attendee_signature_title">SIGNATURE</string>
+
+    <!--speakers-->
+    <string name="speakers_empty_title">Stage fright</string>
+    <string name="speakers_empty_description">Mark Twain once said that there are two types of speakers: those who are nervous and those who are liars. Speakers are still being added, so check back soon.</string>
+    <string name="speakers_empty_action_text">Add Speakers</string>
+    <string name="speaker_about_empty_title">We may never know</string>
+    <string name="speaker_about_empty_message">if this person was raised by wolves, enjoys long walks on the beach, or thinks The Beatles are overrated. Let’s hope they fill out their “About” section and reveal their true identity!</string>
+    <string name="speaker_contact_info_title">contact information</string>
+    <string name="speaker_about_title">about</string>
+    <string name="speaker_filter_title">REFINE</string>
+    <string name="maps_empty_title">“X” marks the spot</string>
+    <string name="maps_empty_message">Remember when you used a large piece of paper to try and get around? Now it’s as simple as a few taps on a screen! Unfortunately, no maps have been added yet, so your adventure will have to wait. Check back soon!</string>
+    <string name="appointment_location_empty_title">No rooms available</string>
+    <string name="appointment_location_empty_message">Unfortunately, no rooms are available for this day. Please select another day and try again.</string>
+    <string name="create_speaker">Create speaker</string>
+    <string name="has_been_successfully_added">%s has been successfully added</string>
+    <string name="update_speaker">Update speaker</string>
+
+    <string name="navdrawer_header_event">My event</string>
+    <string name="navdrawer_header_account">My account</string>
+    <string name="new_appointment_location_title">ON-SITE LOCATIONS</string>
+    <string name="appointment_conflict_resolved_time_empty">Unfortunately, no times on this day work for everyone. Please update the date and try again.</string>
+    <string name="view_availability_does_not_search_customers_message">View Availability does not search customers availability, only internal employees</string>
+
+    <string name="lead_empty_title">It’s quiet, too quiet</string>
+    <string name="lead_empty_message">It looks like you haven’t captured any leads yet. Keep hunting! (and remember that a warm smile goes a long way)</string>
+    <string name="leaderboards_empty_brace_yourselves_message">Brace yourselves! Although this challenge isn’t live yet, we heard there is some stiff competition. Check back soon and revel in the glory.</string>
+    <string name="leaderboards_empty_watch_the_throne">Watch the throne</string>
+    <string name="scanning_error_please_try_again">Scanning error, please try again</string>
+    <string name="the_badge_is_already_scanned">The badge is already scanned!</string>
+    <string name="view_my_leads">To automatically scan, place the barcode within the area below</string>
+    <string name="key_customer">Key Customer</string>
+    <string name="tap_card_to_view_profile">TAP CARD TO VIEW PROFILE</string>
+    <string name="no_appointments_found">No Appointments Found</string>
+    <string name="checkInTitle_description">To add this person to an appointment, find and select the appointment, then tap “add people” in the details screen</string>
+    <string name="view_all_appointments">View All Appointments</string>
+    <string name="undo_check_in">Undo Check-in</string>
+    <string name="unchecked_in_from_appointment">Unchecked-in from Appointment</string>
+    <string name="displaying_count_speakers">Displaying %d Speakers</string>
+
+    <!-- Compete -->
+    <string name="all_leaderboard">Leaderboard</string>
+    <string name="all_challenges">Challenges</string>
+    <string name="all_teams">Teams</string>
+    <string name="leaderboard_team_details_place_pattern">%s place</string>
+    <string name="leaderboard_team_details_points_pattern">%s points</string>
+    <string name="leaderboard_user_description_pattern" translatable="false">%s, %s</string>
+    <string name="leaderboard_teams_members_count_pattern">%d members</string>
+    <string name="challenge_description">Description</string>
+    <string name="challenge_how_to_earn_points">How to earn points</string>
+    <string name="challenge_view_full_leaderboard">View Full Leaderboard</string>
+    <string name="engaged_by">Engaged by %s</string>
+    <string name="product_interests">Product Interests</string>
+    <string name="no_name_category">No name CATEGORY</string>
+    <string name="one_product_selected">1 product | %d selected</string>
+    <string name="product_selected">%s product | %d selected</string>
+    <string name="contact_information">CONTACT INFORMATION</string>
+
+    <string name="new_note">NEW NOTE</string>
+    <string name="edit_note">EDIT NOTE</string>
+    <string name="delete_note">Delete note</string>
+    <string name="note_text_required">Note text required!</string>
+    <string name="note_alert">Note alert</string>
+    <string name="notes">NOTES</string>
+    <string name="note">NOTE</string>
+    <string name="open_note">Open note</string>
+    <string name="lead_note_empty_message">It looks like no one has taken any notes for this lead. Maybe they’re new (or someone wasn’t paying attention). Either way, be the first to record an engagement. </string>
+    <string name="lead_note_empty_title">On another note</string>
+    <string name="lead_note_empty_action">Create Note</string>
+    <string name="my_leads">my leads</string>
+    <string name="all_leads">all leads</string>
+    <string name="displaying_n_leads">Displaying %s leads</string>
+    <string name="scan_lead">Scan a Lead</string>
+
+    <string name="challenges_empty_almost_time_to_test_message">
+        It’s almost time to test you skillsand prove that you are the best.
+        Challenges should be available shortly, so check back soon.
+    </string>
+    <string name="challenges_empty_winter_is_coming">Win-ter is coming</string>
+
+    <!-- Compete teams -->
+    <string name="compete_teams_all_my_teams">my teams</string>
+    <string name="compete_teams_all_teams">all teams</string>
+    <string name="compete_teams_all_empty_state_make_dream_title">Make the dream work</string>
+    <string name="compete_teams_all_empty_state_message">Oops! It looks like no teams have been formed yet. Check back soon closer to competition time.</string>
+    <string name="compete_team_details_add_team_motto">Add Team Motto</string>
+    <string name="compete_team_new_team_name">Team name</string>
+    <string name="compete_team_new_team_motto">Team motto</string>
+    <string name="compete_team_new_edit_team">Edit Team</string>
+    <string name="compete_team_new_edit_members">Edit members</string>
+    <string name="compete_team_new_add_team_members">Add Team Members</string>
+
+    <!-- Customers -->
+    <string name="all_customers">Customers</string>
+    <string name="new_customer_title">New customer</string>
+    <string name="customer_about_empty_state_no_customer_info_subtitle">This customer currently has no information.\n Check back soon!</string>
+    <string name="customer_refine_displaying_placeholder">"Displaying %d Customers"</string>
+    <string name="all_prefix">Prefix</string>
+    <string name="new_customer_affiliation">Affiliation</string>
+    <string name="new_customer_affiliation_address_1">Affiliation Address 1</string>
+    <string name="new_customer_affiliation_address_2">Affiliation Address 2</string>
+    <string name="all_validation_error">Validation error</string>
+    <string name="new_customer_enter_valid_first_name">Please enter a valid first name</string>
+    <string name="new_customer_enter_valid_last_name">Please enter a valid last name</string>
+    <string name="new_customer_enter_valid_email">Please enter a valid email address</string>
+    <string name="list_item_teams_members_pattern">%d members</string>
+    <string name="new_customer_enter_valid_team_name">Please enter a valid team name</string>
+
+    <!-- Materials-->
+    <string name="materials_refine_displaying_status">Displaying %1$d Materials</string>
+    <string name="materials_empty_title">Nothing to see here, folks</string>
+    <string name="materials_empty_message">There are currently no materials for this event. That could be a good thing or a bad thing. It’s really a matter of perspective. In any case, check back soon!</string>
+    <string name="all_take_photo_failed_no_access_storage_permission">Take photo failed. You turned off permissions to access storage. To edit, go to Apps Settings</string>
+    <string name="empty_view_gallery_submit_photo"><u>Submit a Photo</u></string>
+    <string name="empty_view_gallery_no_photos_text">It looks like there are currently no photos. Why not help set the scene and submit a few of your favorite shots?</string>
+    <string name="empty_view_gallery_oh_shoot_title">Oh, shoot!</string>
+    <string name="full_screen_photo_delete">Delete photo</string>
+    <string name="used_in">Used in:</string>
+    <string name="filter_by_date">By Date</string>
+    <string name="filter_by_typee">By Type</string>
+    <string name="filter_pdf">PDF</string>
+    <string name="filter_survey">Survey</string>
+    <string name="filter_video">Video</string>
+    <string name="filter_website">Website</string>
+
+    <!--Events-->
+    <string name="events_create_dialog_title">Coming Soon!</string>
+    <string name="events_create_dialog_close">Close Message</string>
+    <string name="events_create_dialog_message">Creating an event from your mobile device isn’t quite ready yet.\n\nPlease visit: eventsthatflow.com from your computer to create your event.</string>
+
+    <string name="photo_delete">Are you really sure to delete this photo?</string>
+
+    <!--Select language-->
+    <string name="language_title">LANGUAGE</string>
+
+    <string name="marker_in_sydney">Marker in Sydney</string>
+
+    <string name="cannot_load_map">Can\'t load map.</string>
+
+    <!-- App main menu -->
+    <string name="menu_section_title_my_event">My event</string>
+    <string name="menu_section_title_my_account">My account</string>
+    <string name="menu_item_title_events">Events</string>
+    <string name="menu_item_title_profile">Profile</string>
+
+    <!-- All filter sections -->
+    <string name="filter_search_center_title">Search</string>
+    <string name="all_search_by_name_company_email">Search by name, company, or email</string>
+    <string name="job_role_empty_state_no_info_regarding_your_role">No information regarding your role has been provided yet. Reach out to your manager or simply check back soon.</string>
+
+    <!--Widgets-->
+    <string name="users_location">%s’s Location</string>
+    <string name="cannot_load_location">Can\'t load location</string>
+    <string name="profile.contact_info.label.city">City</string>
+
+</resources>
