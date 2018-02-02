@@ -15,7 +15,7 @@ class IosFileParser(private val file: String) {
             lines.filter { !it.startsWith("//") }
                     .filter { !it.isBlank() }
                     .forEach {
-                        lineList.add(it)
+                        lineList.add(it.replace("%@", "%s"))
                     }
         }
         val map = hashMapOf<String, String>()
